@@ -14,7 +14,7 @@ Załadowanie i obsłużenie balisty na smoki - 8 sukcesów
 
 Po uzyskaniu odpowiedniej ilości sukcesów many gracz rzuca [Test umiejętności](#file-testy-umiejętności-md)
 
-Gracz może wydać wielokrotność sukcesów na użycie umiejętności aby dodać +1 za każdą wielokrotność.
+Gracz może wydać wielokrotność wymaganych sukcesów na użycie umiejętności aby dodać +1 za każdą wielokrotność.
 Gracz może też odjąć sobie od testu brakujące sukcesy many, aby wykonać czynność w pośpiechu.
 
 Przykład:
