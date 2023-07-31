@@ -46,6 +46,8 @@ Synergia to system, w który:
   * [Łowca](#file-lista-lowca-md)
   * [Nekromanta](#file-lista-nekromanta-md)
   * [Wojownik](#file-lista-wojownik-md)
+  * [Zdolności powszechne](#file-zdolności-powszechne-md)
+    * [Lista zdolności powszechnych](#file-lista-powszechne-md)
 
 * Walka
   * [Przygotownie walki](#file-przygotowanie-walki-md)
@@ -66,11 +68,10 @@ Synergia to system, w który:
   * [Handel przedmiotami](#file-handel-przedmiotami-md)
 
 * Inne
+  * [Śmierć](#file-smierc-md)
   * [Efekty](#file-efekt-md)
     * [Zmrożenie](#file-efekt-zmrozenie-md)
     * [Zatrucie](#file-efekt-zatrucie-md)
     * [Strach](#file-efekt-strach-md)
-  * [Śmierć](#file-smierc-md)
-  * [Zdolności powszechne](#file-zdolności-powszechne-md)
-    * [Lista zdolności powszechnych](#file-lista-powszechne-md)
+
 
