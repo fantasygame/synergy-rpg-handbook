@@ -1,6 +1,6 @@
-# Levelowanie postaci
+# Wbijanie poziomu
 
-Levelowanie postaci jest również opisane na karcie postaci:
+Wbijanie poziomu jest również opisane na karcie postaci:
 
 Za każde 10 doświadczenia postać zdobywa poziom
 
