@@ -1,6 +1,6 @@
 # Synergia RPG - Podręcznik
 
-Synergia to system, w który:
+Synergia to system który:
 * Promuje strategiczne potyczki od pierwszego poziomu.
 * Stawia na współpracę i grę drużynową.
 * Jest łatwy do prowadzenia dla MG z ADHD. Cały stan gry reprezentowany jest kośćmi na stole. Bez potrzeby śledzenia inicjatywy, życia czy efektów na kartce. Ani odpowiadania na pytania czy atak trafił albo ile życia ma potwór.
