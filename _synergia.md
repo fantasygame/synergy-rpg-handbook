@@ -64,3 +64,6 @@ Synergia to system, w który:
   * [Wartość przedmiotu](#file-wartosc-przedmiotu-md)
   * [Magiczne przedmioty](#file-magiczne-przedmioty-md)
   * [Handel przedmiotami](#file-handel-przedmiotami-md)
+
+* [Efekty](#file-efekt-md)
+  * [Zmrożenie](#file-efekt-zmrozenie-md)
