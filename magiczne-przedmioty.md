@@ -20,4 +20,4 @@ Każda postać może w danej chwili nosić:
 * Dwa pierścienie
 * Amulet
 
-Liczba przedmiotów jest również ograniczona liczbą wolnych miejsc na [karcie postaci](#file-karta-postaci-md).
+Liczba przedmiotów które postać może nosić jest również ograniczona liczbą wolnych miejsc na [karcie postaci](#file-karta-postaci-md).
