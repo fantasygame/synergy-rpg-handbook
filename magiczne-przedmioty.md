@@ -1,0 +1,23 @@
+# Magiczne przedmioty
+
+MG posiada talię magicznych przedmiotów. Po [Rzucie na skarb](#file-rzut-na-skarb-md) gracze mogą zdobyć ten przedmiot.
+
+Każdy przedmiot jest skalowalny - jego moc zależna jest od poziomu przedmiotu.
+
+Najprostszy przykład:
+``````
+Miecz +1 dodaje +1 do ataku.
+Miecz +7 dodaje +7 do ataku.
+``````
+
+[Wartość przedmiotu](#file-wartosc-przedmiotu-md) jest zależna od jego poziomu.
+
+Każda postać może w danej chwili nosić:
+* Broń
+* Tarczę
+* Pancerz
+* Hełm/czapkę
+* Dwa pierścienie
+* Amulet
+
+Liczba przedmiotów jest również ograniczona liczbą wolnych miejsc na [karcie postaci](#file-karta-postaci-md).
