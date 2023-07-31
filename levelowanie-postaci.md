@@ -12,4 +12,4 @@ Na każdym poziomie:
    1. Umiejętność - zamaluj kość jednej umiejętności
    2. Zdolność fabularna - wykorzystywana poza walką. Np. wykrycie magii, zaufany wierzchowiec, rozmawianie ze zwierzętami.
    3. [Multiklasowość](#file-multiklasowosc-md)
-4. Połowa [atrybutu](#file-atrybuty-id)
+4. Połowa [atrybutu](#file-atrybuty-md)
