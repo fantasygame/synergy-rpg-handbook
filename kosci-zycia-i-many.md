@@ -14,7 +14,7 @@ Wartość na kości:
 
 Rodzaj kości:
 - wytrzymałość na zdolności nie zadające obrażeń
-- zasięg zaklęć w krokach (polach)
+- zasięg zdolności w krokach (polach)
 
 Wartość na kości:
 - Ile postać może zrobić w rundzie
