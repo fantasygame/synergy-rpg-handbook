@@ -21,7 +21,6 @@ Synergia to system który:
   * [Testy umiejętności](#file-testy-umiejetnosci-md)
   * [Podstawowa trudność - 5](#file-podstawowa-trudnosc-md)
   * [Inspiracja](#file-inspiracja-md)
-  * [Mana poza walką](#file-mana-poza-walka-md)
 
 * Postać
   * [Tworzenie postaci](#file-tworzenie-postaci-md)
@@ -69,10 +68,9 @@ Synergia to system który:
 
 * Inne
   * [Śmierć](#file-smierc-md)
+  * [Krótkie kampanie](#file-krotkie-kampanie-md)
+  * [Mana poza walką](#file-mana-poza-walka-md)
   * [Efekty](#file-efekt-md)
     * [Zmrożenie](#file-efekt-zmrozenie-md)
     * [Zatrucie](#file-efekt-zatrucie-md)
     * [Strach](#file-efekt-strach-md)
-  * [Krótkie kampanie](#file-krotkie-kampanie-md)
-
-
