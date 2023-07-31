@@ -65,7 +65,9 @@ Synergia to system, w który:
   * [Magiczne przedmioty](#file-magiczne-przedmioty-md)
   * [Handel przedmiotami](#file-handel-przedmiotami-md)
 
-* [Efekty](#file-efekt-md)
-  * [Zmrożenie](#file-efekt-zmrozenie-md)
-  * [Zatrucie](#file-efekt-zatrucie-md)
-  * [Strach](#file-efekt-strach-md)
+* Inne
+  * [Efekty](#file-efekt-md)
+    * [Zmrożenie](#file-efekt-zmrozenie-md)
+    * [Zatrucie](#file-efekt-zatrucie-md)
+    * [Strach](#file-efekt-strach-md)
+  * [Cucenie sojusznika](#file-cucenie-sojusznika-md)
