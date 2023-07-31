@@ -73,7 +73,7 @@ Synergia to system który:
   * [Śmierć](#file-smierc-md)
   * [Krótkie kampanie](#file-krotkie-kampanie-md)
   * [Mana poza walką](#file-mana-poza-walka-md)
-  * [Efekty](#file-efekt-md)
+  * [Efekty ogólne](#file-efekt-md)
     * [Zmrożenie](#file-efekt-zmrozenie-md)
     * [Zatrucie](#file-efekt-zatrucie-md)
     * [Strach](#file-efekt-strach-md)
