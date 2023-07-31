@@ -17,4 +17,4 @@ Aby wylosować kolejne przedmioty na sprzedaż gracze muszą znaleźć innego sp
 
 ## Ulepszenie przedmiotu
 
-Można ulepszyć przedmiot za 50% jego [wartości](#file-wartosc-przedmiotu-md) na poziomie na który chce się ulepszyć.
+Można ulepszyć przedmiot na kolejny poziom za 50% jego [wartości](#file-wartosc-przedmiotu-md) na poziomie na który chce się ulepszyć.
