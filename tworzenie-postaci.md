@@ -1,7 +1,7 @@
 # Tworzenie postaci
 
 1. Wybierz [klasę postaci](#file-klasa-postaci-md)
-2. Rozwiń kość many lub kość życia
+2. Rozwiń [kość many lub kość życia](#file-kosci-zycia-i-many-md)
    1. Rozwój kości 4k4->4k6->5k6->6k6->6k8->7k8->...->12k12
 3. Wybierz dwie [zdolnosci](#file-zdolnosc-md) z listy twojej [klasy postaci](#file-klasa-postaci-md).
 4. Wybierz jedną [umiejętność](#file-umiejetnosci-id) - zamaluj kość jednej [umiejętności](#file-umiejetnosci-id)
