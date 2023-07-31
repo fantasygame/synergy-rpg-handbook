@@ -31,6 +31,7 @@ Synergia to system, w który:
   * [Zdolność](#file-zdolnosc-md)
     * [Talent](#file-talent-md)
     * [Efekt](#file-efekt-md)
+  * [Zdolność fabularna](#file-zdolnosc-fabularna-md)
   * [Karta Postaci](#file-karta-postaci-md)
   * [Levelowanie postaci](#file-levelowanie-postaci-md)
     * [Doświadczenie](#file-doswiadczenie-md)
