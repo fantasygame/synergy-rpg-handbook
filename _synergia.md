@@ -68,3 +68,4 @@ Synergia to system, w który:
 * [Efekty](#file-efekt-md)
   * [Zmrożenie](#file-efekt-zmrozenie-md)
   * [Zatrucie](#file-efekt-zatrucie-md)
+  * [Strach](#file-efekt-strach-md)
