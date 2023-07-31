@@ -68,3 +68,11 @@ Koszt: poziom przedmiotu many
 Zdolność powszechna
 ```
 ___
+```
+Dodatkowe kroki
+
+Koszt: dodatkowe kroki many
+
+Zdolność powszechna
+```
+___
