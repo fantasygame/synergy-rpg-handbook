@@ -13,7 +13,7 @@ Wartość na kości:
 ### Kość many
 
 Rodzaj kości:
-- wytrzymałość na efekty (zdolności nie zadające obrażeń)
+- wytrzymałość na zdolności nie zadające obrażeń
 - zasięg zaklęć w krokach (polach)
 
 Wartość na kości:
