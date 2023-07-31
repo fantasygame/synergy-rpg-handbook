@@ -1,5 +1,8 @@
 # Synergia RPG - Podręcznik
 
+![synergy-logo](https://user-images.githubusercontent.com/1104186/257311581-4a8a3447-215b-4dda-b081-844ace674cfb.jpg)
+
+
 Synergia to system który:
 * Promuje strategiczne potyczki od pierwszego poziomu.
 * Stawia na współpracę i grę drużynową.
