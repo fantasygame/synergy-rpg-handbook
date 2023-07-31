@@ -48,7 +48,7 @@ Synergia to system który:
   * [Łowca](#file-lista-lowca-md)
   * [Nekromanta](#file-lista-nekromanta-md)
   * [Wojownik](#file-lista-wojownik-md)
-  * [Zdolności powszechne](#file-zdolności-powszechne-md)
+  * [Zdolności powszechne](#file-zdolnosci-powszechne-md)
     * [Lista zdolności powszechnych](#file-lista-powszechne-md)
 
 * Walka
