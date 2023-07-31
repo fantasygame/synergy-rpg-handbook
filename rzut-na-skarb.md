@@ -30,3 +30,7 @@ lvl 7 - 100 000
 ```
 
 Przedmioty i talenty mogą dawać plusy do rzutu na skarb.
+
+## Tempo awansu
+
+Zobacz [Krótkie kampanie](#file-krotkie-kampanie-md)
