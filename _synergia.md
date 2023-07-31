@@ -11,7 +11,7 @@ Synergia to system, w który:
 * Stawia na prostą mechanikę, bez zbędnego upraszczania walki.
 
 # Spis treści
-* [Kości życia i many](#file-kosci_zycia_i_many-md)
+* [Kości życia i many](#file-kosci-zycia-i-many-md)
 * [Test ataku](#file-test_ataku-md)
 * [Test umiejętności](test_umiejętności.md)
 * [Tworzenie postaci](tworzenie_postaci.md)
