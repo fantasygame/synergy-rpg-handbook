@@ -70,6 +70,7 @@ Synergia to system, w który:
     * [Zmrożenie](#file-efekt-zmrozenie-md)
     * [Zatrucie](#file-efekt-zatrucie-md)
     * [Strach](#file-efekt-strach-md)
-  * [Cucenie sojusznika](#file-cucenie-sojusznika-md)
-  * Śmierć
+  * [Śmierć](#file-smierc-md)
+  * [Zdolności powszechne](#file-zdolności-powszechne-md)
+    * [Lista zdolności powszechnych](#file-lista-powszechne-md)
 
