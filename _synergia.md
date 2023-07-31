@@ -28,6 +28,7 @@ Synergia to system, w który:
   * [Klasa postaci](#file-klasa-postaci-md)
   * [Umiejętności](#file-umiejetnosci-md)
   * [Atrybuty](#file-atrybuty-md)
+  * [Pancerz](#file-pancerz-md)
   * [Zdolność](#file-zdolnosc-md)
     * [Talent](#file-talent-md)
     * [Efekt](#file-efekt-md)
