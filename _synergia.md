@@ -71,3 +71,5 @@ Synergia to system, w który:
     * [Zatrucie](#file-efekt-zatrucie-md)
     * [Strach](#file-efekt-strach-md)
   * [Cucenie sojusznika](#file-cucenie-sojusznika-md)
+  * Śmierć
+
