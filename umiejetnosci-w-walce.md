@@ -31,7 +31,7 @@ Król Urkon walczy ze smokiem. Vultures improwizuje ładowanie i osłużenie bal
 
 Następna runda:
 
-> Lobo: Pomagam vulturesowi za 3d6 many - dwa sukcesy (obraca kość balisty na 1)
+> Lobo: Pomagam vulturesowi za 3d6 many - trzy sukcesy (obraca kość balisty na 1)
 > 
 > Vultures: Lecę znowu za całą manę. Dobry rzut. Dziewięc sukcesów!
 > Vultures: Mamy dwa razy więcej niż potrzeba. Dodaję +1 do testu
