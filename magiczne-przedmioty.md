@@ -13,7 +13,7 @@ Miecz +7 dodaje +7 do ataku.
 [Wartość przedmiotu](#file-wartosc-przedmiotu-md) jest zależna od jego poziomu.
 
 Każda postać może w danej chwili nosić:
-* Broń
+* Broń (Można jednocześnie nosić broń do walki wręcz i dystansowej. Nie ma kosztu zmiany many.)
 * Tarczę
 * Pancerz
 * Hełm/czapkę
