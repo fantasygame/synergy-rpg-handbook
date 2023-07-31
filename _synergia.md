@@ -5,7 +5,7 @@ Synergia to system który:
 * Stawia na współpracę i grę drużynową.
 * Jest łatwy do prowadzenia dla MG z ADHD. Cały stan gry reprezentowany jest kośćmi na stole. Bez potrzeby śledzenia inicjatywy, życia czy efektów na kartce. Ani odpowiadania na pytania czy atak trafił albo ile życia ma potwór.
 * Priorytetyzuje frajdę graczy nad szczegółowym realizmem.
-* Daje dużo ciekawych opcji na rozwój postaci, dając przy tym dużo swobody w wymyślaniu i modyfikowaniu zdolności.
+* Daje dużo ciekawych opcji na rozwój postaci i swobodę w wymyślaniu i modyfikowaniu zdolności.
 * Nie powoduje dysproporcji pomiędzy klasami postaci z poziomem.
 * Ma prostą mechanikę magicznych przedmiotów, złota i doświadczenia.
   * Nie wymaga od MG podejmowania decyzji przy każdej walce/po każdej sesji.
