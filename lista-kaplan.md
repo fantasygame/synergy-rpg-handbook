@@ -1,0 +1,129 @@
+# Lista kapłan
+
+```
+Święty atak
+
+Fart: Cel oślepiony
+- sukcesy do ataku
+
+
+Templariusz
+```
+___
+```
+Uderzenie tarczą
+
+Sukces obrażeń do many
+
+
+Templariusz
+```
+___
+```
+Modlitwa
+
+Zwiększasz kości many
+następnego ataku o liczbę
+sukcesów
+
+
+Templariusz
+```
+___
+```
+Pogrom
+
+Uderzasz niewiernych.
+Tak długo jak zadajesz
+obrażenia możesz atakować
+kolejne cele
+
+Templariusz
+```
+___
+```
+Leczenie
+Dodatkowe cele 2M
+
+
+Sukcesy uleczonych ran
+
+
+Pomoc
+```
+___
+```
+Blogoslawienstwo
+
+Sukcesy do testów
+dla wszystkich sojuszników
+w zasiegu
+
+
+Pomoc
+```
+___
+```
+Usunięcie efektów
+
+Usuwa sukcesy poziomów
+efektów sojusznikom
+w zasięgu
+
+Pomoc
+```
+___
+```
+Aura pośpiechu
+
+Dodaje sukcesy
+kroków wszystkim
+sojusznikom w
+zasięgu
+
+Pomoc
+```
+___
+```
+Oślepienie
+
+Minus sukcesy do ataku
+dla przeciwników
+w zasięgu
+
+Światło
+```
+___
+```
+Wygnanie
+vs mana
+
+Jeżeli przebijesz wszystkie
+kości many - wyganiasz
+wroga do innego świata.
+
+Światło
+```
+___
+```
+Światło
+
+Neguje każdą ciemność
+w zasięgu sukces pól.
+Również zdolność fabularna.
+
+Światło
+```
+___
+```
+Kolumna światła
+1x1:0M 2x2:2M
+
+Obrażenia od światła
+
+Fart: Oślepienie - sukcesy
+do ataku
+
+Światło
+```
+___
