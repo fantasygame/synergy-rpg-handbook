@@ -33,7 +33,7 @@ Synergia to system, w który:
     * [Efekt](#file-efekt-md)
   * [Karta Postaci](#file-karta-postaci-md)
   * [Levelowanie postaci](#file-levelowanie-postaci-md)
-    * [Doświadczenie](#file-doświadczenie-md)
+    * [Doświadczenie](#file-doswiadczenie-md)
     * [Multiklasowość](#file-multiklasowosc-md)
     * [Klasa prestiżowa](#file-klasa-prestizowa-md)
 
