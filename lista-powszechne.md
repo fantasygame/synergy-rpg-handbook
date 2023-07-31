@@ -68,13 +68,3 @@ Koszt: poziom przedmiotu many
 Zdolność powszechna
 ```
 ___
-```
-Użycie przedmiotu
-Koszt: poziom przedmiotu many
-
-Sukcesy pancerza
-sojusznikom
-w zasiegu
-
-Obrońca
-```
