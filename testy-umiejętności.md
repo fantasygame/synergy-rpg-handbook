@@ -20,6 +20,6 @@ Przykład:
 >
 > Gracz: Sakiewka!
 >
-> MG: Ok, [rzuć na złoto](#file-rzut-na-skarb-md)
+> MG: Ok, [rzuć ile monet](#file-rzut-na-skarb-md)
 
 Przedmioty i talenty fabularne mogą dodawać plusy do umiejętności.
