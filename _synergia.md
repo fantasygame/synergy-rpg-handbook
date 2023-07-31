@@ -12,7 +12,7 @@ Synergia to system, w który:
 
 # Spis treści
 * [Kości życia i many](#kosci_zycia_i_many_md)
-* [Test ataku](test_ataku.md)
+* [Test ataku](#test_ataku_md)
 * [Test umiejętności](test_umiejętności.md)
 * [Tworzenie postaci](tworzenie_postaci.md)
 * [Doświadczenie](doświadczenie.md)
