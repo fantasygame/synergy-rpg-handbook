@@ -1,6 +1,6 @@
 # Synergia RPG - Podręcznik
 
-![synergy-logo](https://user-images.githubusercontent.com/1104186/257311581-4a8a3447-215b-4dda-b081-844ace674cfb.jpg)
+<img src="https://user-images.githubusercontent.com/1104186/257311581-4a8a3447-215b-4dda-b081-844ace674cfb.jpg"  width="500">
 
 
 Synergia to system który:
