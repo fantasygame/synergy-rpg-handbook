@@ -17,7 +17,9 @@ Rodzaj kości:
 - zasięg zdolności w krokach (polach)
 
 Wartość na kości:
-- Ile postać może zrobić w rundzie
+- Iloma kośćmi może postać rzucić w rundzie.
 
 ## Rzut many
-Rzut many to rzut pewną ilośćią kości many, przerzucanie maksymalnych wyników na kości i sumowanie wyników.
+Rzut many to rzut wybraną ilośćią kości many i sumowanie wyników.
+
+Maksymalne wyniki na kości się przerzuca i dodaje do sumy.
