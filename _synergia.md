@@ -18,7 +18,7 @@ Synergia to system, w który:
 * Podstawowa Mechanika
   * [Kości życia i many](#file-kosci-zycia-i-many-md)
   * [Test ataku](#file-test-ataku-md)
-  * [Testy umiejętności](#file-testy-umiejętności-md)
+  * [Testy umiejętności](#file-testy-umiejetnosci-md)
   * [Podstawowa trudność - 5](#file-podstawowa-trudnosc-md)
   * [Inspiracja](#file-inspiracja-md)
   * [Mana poza walką](#file-mana-poza-walka-md)
