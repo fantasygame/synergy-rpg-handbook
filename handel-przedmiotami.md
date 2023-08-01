@@ -14,7 +14,3 @@ Po znalezieniu sprzedawcy, MG losuje wybraną liczbę przedmiotów (domyślnie 1
 Z tych przedmiotów gracze mogą kupić za [cenę rynkową](#file-wartosc-przedmiotu-md) przedmiot na dowolnym poziomie.
 
 Aby wylosować kolejne przedmioty na sprzedaż gracze muszą znaleźć innego sprzedawcę albo przyjść ponownie w późniejszej części historii.
-
-## Ulepszenie przedmiotu
-
-Można ulepszyć przedmiot na kolejny poziom za 50% jego [wartości](#file-wartosc-przedmiotu-md) na poziomie na który chce się ulepszyć.

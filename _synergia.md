@@ -66,10 +66,11 @@ Synergia to system który:
   * [Poziom drużyny](#file-poziom-druzyny-md)
   * [Poziom wyzwania](#file-poziom-wyzwania-md)
   * [Rzut na skarb](#file-rzut-na-skarb-md)
-  * [Wartość przedmiotu](#file-wartosc-przedmiotu-md)
   * [Magiczne przedmioty](#file-magiczne-przedmioty-md)
-  * [Handel przedmiotami](#file-handel-przedmiotami-md)
-  * [Kamienie szlachetne](#file-kamienie-szlachetne-md)
+    * [Wartość przedmiotu](#file-wartosc-przedmiotu-md)
+    * [Handel przedmiotami](#file-handel-przedmiotami-md)
+    * [Ulepszenie przedmiotu](#file-ulepszenie-przedmiotu-md)
+    * [Kamienie szlachetne](#file-kamienie-szlachetne-md)
 
 * Inne
   * [Śmierć](#file-smierc-md)
