@@ -57,13 +57,13 @@ Kamień Szlachetny - fioletowy
 ```
 ___
 ```
-Topaz
+Onyks
 
 Broń: + atak wręcz
 Pancerz: + pancerz na obrażenia wręcz
 Inne: + do okazyjnego ataku
 
-Kamień Szlachetny - onyks
+Kamień Szlachetny - czarny
 ```
 ___
 ```
