@@ -69,6 +69,7 @@ Synergia to system który:
   * [Wartość przedmiotu](#file-wartosc-przedmiotu-md)
   * [Magiczne przedmioty](#file-magiczne-przedmioty-md)
   * [Handel przedmiotami](#file-handel-przedmiotami-md)
+  * [Kamienie szlachetne](#file-kamienie-szlachetne-md)
 
 * Inne
   * [Śmierć](#file-smierc-md)
