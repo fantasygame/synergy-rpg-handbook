@@ -123,8 +123,8 @@ Kolumna światła
 
 Obrażenia od światła
 
-Fart: Oślepienie - sukcesy
-do ataku
+Fart: Oślepienie
+Przeciwnik odejmuje sukcesy od swojego następnego ataku.
 
 Światło
 ```
