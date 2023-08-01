@@ -3,17 +3,18 @@
 ```
 Święty atak
 
-Fart: Cel oślepiony
-- sukcesy do ataku
-
+Zadaje obrażenia i oślepia przeciwnika.
+Ten odejmuje sukcesy od następnego ataku.
 
 Templariusz
 ```
 ___
 ```
 Uderzenie tarczą
+vs mana
 
-Sukces obrażeń do many
+Zmniejszasz manę przeciwnika
+o liczbę sukcesów.
 
 
 Templariusz
