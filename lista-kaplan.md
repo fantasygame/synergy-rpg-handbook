@@ -4,7 +4,7 @@
 Święty atak
 
 Zadaje obrażenia i oślepia przeciwnika.
-Ten odejmuje sukcesy od następnego ataku.
+Przeciwnik odejmuje sukcesy od swojego następnego ataku.
 
 Templariusz
 ```
