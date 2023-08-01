@@ -119,7 +119,7 @@ Również zdolność fabularna.
 ___
 ```
 Kolumna światła
-1x1:0M 2x2:2M
+2x2:2M
 
 Obrażenia od światła
 
