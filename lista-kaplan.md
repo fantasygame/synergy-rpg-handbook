@@ -24,9 +24,10 @@ ___
 Modlitwa
 
 Zwiększasz kości many
-następnego ataku o liczbę
-sukcesów
+następnego testu o liczbę
+sukcesów.
 
+Na siebie lub sojusznika.
 
 Templariusz
 ```
