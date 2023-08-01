@@ -39,7 +39,6 @@ Synergia to system który:
   * [Wbijanie poziomu](#file-levelowanie-postaci-md)
     * [Doświadczenie](#file-doswiadczenie-md)
     * [Multiklasowość](#file-multiklasowosc-md)
-    * [Klasa prestiżowa](#file-klasa-prestizowa-md)
 
 * Lista zdolności
   * [Czarodziej](#file-lista-czarodziej-md)
@@ -50,6 +49,8 @@ Synergia to system który:
   * [Wojownik](#file-lista-wojownik-md)
   * [Zdolności powszechne](#file-zdolnosci-powszechne-md)
     * [Lista zdolności powszechnych](#file-lista-powszechne-md)
+  * [Klasa prestiżowa](#file-klasa-prestizowa-md)
+    * [Łowca Smoków](#file-lista-prestizowa-lowca-smokow-md)
 
 * Walka
   * [Przygotownie walki](#file-przygotowanie-walki-md)
