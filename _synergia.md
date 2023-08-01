@@ -71,6 +71,7 @@ Synergia to system który:
     * [Handel przedmiotami](#file-handel-przedmiotami-md)
     * [Ulepszenie przedmiotu](#file-ulepszenie-przedmiotu-md)
     * [Kamienie szlachetne](#file-kamienie-szlachetne-md)
+    * [Słowa runiczne](#file-slowa-runiczne-md)
 
 * Inne
   * [Śmierć](#file-smierc-md)
