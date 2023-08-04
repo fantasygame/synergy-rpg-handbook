@@ -3,12 +3,11 @@
 ```
 Atak Ukradkowy
 
-Jezeli sojusznik stoi przy
-przeciwniku +lvl do ataku.
+Jezeli sojusznik stoi przy przeciwniku + swój poziom do ataku.
 
 2M drugi cel
 
-Złodziej
+Nożownik
 ```
 ___
 ```
@@ -20,8 +19,7 @@ Za sukces możesz też
 przejść przez pole
 przeciwnika
 
-Złodziej
-
+Nożownik
 ```
 ___
 ```
@@ -33,7 +31,7 @@ sukcesy pancerza. Jeżeli
 postać to przeciwnik - traci
 tyle pancerza.
 
-Złodziej
+Nożownik
 ```
 ___
 ```
@@ -44,7 +42,7 @@ Możesz ukraść
 sukcesy-poziomowy
 przedmiot przeciwnikowi.
 
-Złodziej
+Nożownik
 ```
 ___
 ```
