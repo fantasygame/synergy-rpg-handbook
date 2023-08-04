@@ -48,12 +48,10 @@ Nekromancja
 ```
 ___
 ```
-Wrażliwość
+Osłabienie
 
-Rzucasz klątwę. Tyle ile
-sukcesow tyle lvl efektu wrażliwości
-na wybrany typ
-obrazeń (fizyczne/2).
+Zmniejszasz rodzaj kości życia o sukcesy.
+Trudność to rodzaj kości życia.
 
 Klątwy
 ```
