@@ -92,6 +92,7 @@ Synergia to system który:
   * [Mana poza walką](docs/mana-poza-walka.md)
   * [Efekty ogólne](docs/efekt.md)
     * [Zmrożenie](docs/docs/efekty/zmrozenie.md)
+    * [Zamrożenie](docs/docs/efekty/zamrozenie.md)
     * [Zatrucie](docs/docs/efekty/zatrucie.md)
     * [Strach](docs/docs/efekty/strach.md)
     * [Podpalenie](docs/docs/efekty/podpalenie.md)
