@@ -24,6 +24,7 @@ Synergia to system który:
   * [Testy umiejętności](docs/testy-umiejetnosci.md)
   * [Podstawowa trudność - 5](docs/podstawowa-trudnosc.md)
   * [Inspiracja](docs/inspiracja.md)
+  * [Przewaga](docs/przewaga.md)
 
 * Postać
   * [Tworzenie postaci](docs/tworzenie-postaci.md)
