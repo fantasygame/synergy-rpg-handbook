@@ -2,7 +2,7 @@
 
 Elementalista włada żywiołami ognia, wiatru i powietrza.
 
-![Image](imgs/klasa-elementalista.png)
+![Image](imgs/elementalista.png)
 
 # Ścieżki:
 
@@ -17,4 +17,4 @@ Elementalista włada żywiołami ognia, wiatru i powietrza.
 `Atak dystansowy`
 
 Zadaje obrażenia od ognia.
-![Image](imgs/klasa-elementalista-ognisty-pocisk.png)
+![Image](imgs/elementalista-ognisty-pocisk.png)
