@@ -34,7 +34,7 @@ tobie i sojusznikom w zasięgu.
 
 Łowca Smoków
 ```
-[Strach](docs/efekt-strach.md)
+[Strach](docs//docs/efekty/strach.md)
 
 ## Zdolności fabularne Łowcy smoków
 
