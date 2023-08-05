@@ -1,3 +1,3 @@
 # Wojownik
 
-<img src="imgs/image.png" width="500">
+<img src="imgs/wojownik.png" width="500">
