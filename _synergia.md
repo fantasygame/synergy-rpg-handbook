@@ -27,7 +27,7 @@ Synergia to system który:
 
 * Postać
   * [Tworzenie postaci](#file-tworzenie-postaci-md)
-  * [Klasa postaci](#file-klasa-postaci-md)
+  * [Klasa postaci](#file-klasy-postaci-md)
   * [Umiejętności](#file-umiejetnosci-md)
   * [Atrybuty](#file-atrybuty-md)
   * [Pancerz](#file-pancerz-md)
@@ -49,7 +49,7 @@ Synergia to system który:
   * [Wojownik](#file-lista-wojownik-md)
   * [Zdolności powszechne](#file-zdolnosci-powszechne-md)
     * [Lista zdolności powszechnych](#file-lista-powszechne-md)
-  * [Klasa prestiżowa](#file-klasa-prestizowa-md)
+  * [Klasa prestiżowa](#file-klasy-prestizowe-md)
     * [Łowca Smoków](#file-lista-prestizowa-lowca-smokow-md)
 
 * Walka
