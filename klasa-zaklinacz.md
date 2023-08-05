@@ -1,4 +1,4 @@
-# Zaklinacz - klasa postaci
+# Zaklinacz
 
 
 ![Alt text](klasa-zaklinacz.png)

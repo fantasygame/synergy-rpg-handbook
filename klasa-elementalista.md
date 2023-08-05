@@ -1,4 +1,4 @@
-# Elementalista - klasa postaci
+# Elementalista
 
 Elementalista włada żywiołami ognia, wiatru i powietrza.
 
