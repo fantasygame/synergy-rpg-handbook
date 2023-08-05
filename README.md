@@ -52,19 +52,6 @@ Synergia to system który:
   * [Wojownik](docs/klasy/wojownik/wojownik.md)
   * [Zaklinacz](docs/klasy/zaklinacz/zaklinacz.md)
 
-
-* Lista zdolności
-  * [Czarodziej](docs/lista-czarodziej.md)
-  * [Druid](docs/lista-druid.md)
-  * [Kapłan](docs/lista-kaplan.md)
-  * [Łowca](docs/lista-lowca.md)
-  * [Nekromanta](docs/lista-nekromanta.md)
-  * [Wojownik](docs/lista-wojownik.md)
-  * [Zdolności powszechne](docs/zdolnosci-powszechne.md)
-    * [Lista zdolności powszechnych](docs/lista-powszechne.md)
-  * [Klasa prestiżowa](docs/klasy-prestizowe.md)
-    * [Łowca Smoków](docs/lista-prestizowa-lowca-smokow.md)
-
 * Walka
   * [Przygotownie walki](docs/przygotowanie-walki.md)
     * [Boss i miniony](docs/boss-i-miniony.md)
