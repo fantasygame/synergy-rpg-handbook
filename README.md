@@ -19,7 +19,7 @@ Synergia to system który:
 # Spis treści
 
 * Podstawowa Mechanika
-  * [Kości życia i many](docs/kosci-zycia-i-many-md)
+  * [Kości życia i many](docs/kosci-zycia-i-many.md)
   * [Test ataku](#file-test-ataku-md)
   * [Testy umiejętności](#file-testy-umiejetnosci-md)
   * [Podstawowa trudność - 5](#file-podstawowa-trudnosc-md)
