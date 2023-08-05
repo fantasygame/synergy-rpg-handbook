@@ -4,7 +4,7 @@ Elementalista włada żywiołami ognia, wiatru i powietrza.
 
 <img src="imgs/elementalista.png" width="500">
 
-# Ścieżki:
+
 
 ## Ogień
 
@@ -12,9 +12,8 @@ Elementalista włada żywiołami ognia, wiatru i powietrza.
 
 **Ognisty pocisk**
 
-`Atak dystansowy`
+Atak z dystansu
 
-`Atak dystansowy`
 
 Zadaje obrażenia od ognia.
 ![Image](imgs/elementalista-ognisty-pocisk.png)
