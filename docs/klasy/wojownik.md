@@ -1,3 +1,3 @@
 # Wojownik
 
-![Image](imgs/image.png)
+<img src="imgs/image.png" width="500">

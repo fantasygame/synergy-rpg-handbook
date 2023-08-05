@@ -1,4 +1,4 @@
 # Druid - klasa postaci
 
 
-![Image](imgs/druid.png)
+<img src="imgs/druid.png" width="500">

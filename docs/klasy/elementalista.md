@@ -2,7 +2,7 @@
 
 Elementalista włada żywiołami ognia, wiatru i powietrza.
 
-![Image](imgs/elementalista.png)
+<img src="imgs/elementalista.png" width="500">
 
 # Ścieżki:
 

@@ -1,3 +1,3 @@
 # Łotrzyk
 
-![Image](imgs/lotrzyk.png)
+<img src="imgs/lotrzyk.png" width="500">

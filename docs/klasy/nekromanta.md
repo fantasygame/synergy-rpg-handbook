@@ -1,3 +1,3 @@
 # Nekromanta
 
-![Image](imgs/nekromanta.png)
+<img src="imgs/nekromanta.png" width="500">

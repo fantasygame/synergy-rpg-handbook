@@ -1,3 +1,3 @@
 # Barbarzyńca
 
-![Image](imgs/barbarzynca.png)
+<img src="imgs/barbarzynca.png" width="500">

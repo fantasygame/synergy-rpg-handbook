@@ -1,4 +1,4 @@
 # Zaklinacz
 
 
-![Image](imgs/zaklinacz.png)
+<img src="imgs/zaklinacz.png" width="500">
