@@ -4,6 +4,6 @@
 
 # Ścieżki druida
 
-## [Ścieżka likantropii](/docs/klasy/zaklinacz/sciezki/likantropia.md)
-## [Ścieżka natury](/docs/klasy/zaklinacz/sciezki/natura.md)
-## [Ścieżka zwierzęcego towarzysza](/docs/klasy/zaklinacz/sciezki/zwierzecy-towarzysz.md)
+## [Ścieżka likantropii](sciezki/likantropia.md)
+## [Ścieżka natury](sciezki/natura.md)
+## [Ścieżka zwierzęcego towarzysza](sciezki/zwierzecy-towarzysz.md)

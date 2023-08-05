@@ -4,6 +4,6 @@
 
 # Ścieżki barbarzyńcy
 
-## [Ścieżka berserkera](/docs/klasy/zaklinacz/sciezki/berserker.md)
-## [Ścieżka okrzyków](/docs/klasy/zaklinacz/sciezki/okrzyki.md)
-## [Ścieżka wytrzymałości](/docs/klasy/zaklinacz/sciezki/wytrzymalosc.md)
+## [Ścieżka berserkera](sciezki/berserker.md)
+## [Ścieżka okrzyków](sciezki/okrzyki.md)
+## [Ścieżka wytrzymałości](sciezki/wytrzymalosc.md)
