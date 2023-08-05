@@ -41,16 +41,16 @@ Synergia to system który:
     * [Doświadczenie](docs/doswiadczenie.md)
     * [Multiklasowość](docs/multiklasowosc.md)
 
-* Klasy
-  * [Barbarzyńca](docs/klasy/barbarzynca.md)
-  * [Druid](docs/klasy/druid.md)
-  * [Elementalista](docs/klasy/elementalista.md)
-  * [Kapłan](docs/klasy/kaplan.md)
-  * [Łotrzyk](docs/klasy/lotrzyk.md)
-  * [Nekromanta](docs/klasy/nekromanta.md)
-  * [Tropiciel](docs/klasy/tropiciel.md)
-  * [Wojownik](docs/klasy/wojownik.md)
-  * [Zaklinacz](docs/klasy/zaklinacz.md)
+* [Klasy Postaci](docs/klasy/klasy.md)
+  * [Barbarzyńca](docs/klasy/barbarzynca/barbarzynca.md)
+  * [Druid](docs/klasy/druid/druid.md)
+  * [Elementalista](docs/klasy/elementalista/elementalista.md)
+  * [Kapłan](docs/klasy/kaplan/kaplan.md)
+  * [Łotrzyk](docs/klasy/lotrzyk/lotrzyk.md)
+  * [Nekromanta](docs/klasy/nekromanta/nekromanta.md)
+  * [Tropiciel](docs/klasy/tropiciel/tropiciel.md)
+  * [Wojownik](docs/klasy/wojownik/wojownik.md)
+  * [Zaklinacz](docs/klasy/zaklinacz/zaklinacz.md)
 
 
 * Lista zdolności
