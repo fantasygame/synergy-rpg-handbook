@@ -82,11 +82,11 @@ Wybierz przed rzutem.
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Wichura**
+**Tornado**
 
 Ofensywna zdolność obszarowa.
 
-Tworzysz wichurę, która miota przeciwnikami wedle twojego życzenia.\
+Tworzysz tornado, która miota przeciwnikami wedle twojego życzenia.\
 Latające odłamki ranią wrogów.
 
 Bazowy koszt many: 4M
