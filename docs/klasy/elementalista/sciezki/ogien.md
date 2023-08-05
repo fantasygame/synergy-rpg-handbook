@@ -66,7 +66,7 @@ Tworzy ścianę o długości 3 w kształcie litery L. Przeciwnik wchodzący w ś
 ___
 **Kula ognia**
 
-Ofensywna obszarowa zdolność ofensywna.
+Ofensywna zdolność obszarowa.
 
 Zadajesz obrażenia od ognia.
 
@@ -81,7 +81,7 @@ Zadajesz obrażenia od ognia.
 
 **Deszcz meteorytów**
 
-Ofensywna obszarowa zdolność ofensywna.
+Ofensywna zdolność obszarowa.
 
 Meteoryty spadają w wybranych przez ciebie miejscach, zadając obrażenia od ognia.
 
