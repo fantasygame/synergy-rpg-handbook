@@ -1,3 +1,3 @@
 # Kapłan
 
-<img src="klasa-kaplan.png"  width="300">
+<img src="imgs/kaplan.png"  width="300">
