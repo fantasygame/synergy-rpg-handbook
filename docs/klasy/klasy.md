@@ -7,7 +7,7 @@
 # [Elementalista](/docs/klasy/elementalista/elementalista.md)
 <img src="/docs/klasy/elementalista/imgs/elementalista.png" width="500">
 
-# [Kaplan](/docs/klasy/kaplan/kaplan.md)
+# [Kapłan](/docs/klasy/kaplan/kaplan.md)
 <img src="/docs/klasy/kaplan/imgs/kaplan.png" width="500">
 
 # [Łotrzyk](/docs/klasy/lotrzyk/lotrzyk.md)
