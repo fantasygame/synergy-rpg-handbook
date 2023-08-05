@@ -12,7 +12,7 @@ temu przeciwnikowi do końca walki.
 
 Łowca Smoków
 ```
-[Pancerz](#file-pancerz-md)
+[Pancerz](docs/pancerz.md)
 ___
 ```
 Osłona przed zionięciem
@@ -23,7 +23,7 @@ Postać za tobą otrzymuje sukcesy pancerza.
 
 Łowca Smoków
 ```
-[Pancerz](#file-pancerz-md)
+[Pancerz](docs/pancerz.md)
 ___
 ```
 Niewzruszony Łowca
@@ -34,7 +34,7 @@ tobie i sojusznikom w zasięgu.
 
 Łowca Smoków
 ```
-[Strach](#file-efekt-strach-md)
+[Strach](docs/efekt-strach.md)
 
 ## Zdolności fabularne Łowcy smoków
 
@@ -54,7 +54,7 @@ pokonaniu smoka
 
 Łowca Smoków
 ```
-[Rzut na skarb](#file-rzut-na-skarb-md)
+[Rzut na skarb](docs/rzut-na-skarb.md)
 ___
 ```
 Smocza zbroja

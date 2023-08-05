@@ -6,6 +6,6 @@ Modyfikator powinien znajdować się w przedziale 2-5. Im krótsza kampania tym 
 
 Zmiana mechaniki:
 
-[Doświadczenie](#file-doswiadczenie-md) * modyfikator
+[Doświadczenie](docs/doswiadczenie.md) * modyfikator
 
-[Rzut na skarb](#file-rzut-na-skarb-md) + modyfikator
+[Rzut na skarb](docs/rzut-na-skarb.md) + modyfikator

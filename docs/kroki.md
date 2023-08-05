@@ -1,6 +1,6 @@
 # Kroki
 
-Ilość kroków - ilość pól na mapie, które może przejść postać podczas każdej [akcji](#file-akcja-md)
+Ilość kroków - ilość pól na mapie, które może przejść postać podczas każdej [akcji](docs/akcja.md)
 
 Ilość kroków jest ograniczona ilością many wydanej na akcję.
 

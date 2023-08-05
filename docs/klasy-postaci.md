@@ -1,13 +1,13 @@
 # Klasa postaci
 
-Klasa postaci definiuje jakie [kategorie zdolności](#file-zdolnosc-md) są dostępne dla postaci.
+Klasa postaci definiuje jakie [kategorie zdolności](docs/zdolnosc.md) są dostępne dla postaci.
 
-Aby uzyskać dostęp do zdolności innej klasy należy wykupić [multiklasowość](#file-multiklasowosc-md).
+Aby uzyskać dostęp do zdolności innej klasy należy wykupić [multiklasowość](docs/multiklasowosc.md).
 
 Dostępne klasy postaci:
-* [Czarodziej](#file-lista-czarodziej-md)
-* [Druid](#file-lista-druid-md)
-* [Kapłan](#file-lista-kaplan-md)
-* [Łowca](#file-lista-lowca-md)
-* [Nekromanta](#file-lista-nekromanta-md)
-* [Wojownik](#file-lista-wojownik-md)
+* [Czarodziej](docs/lista-czarodziej.md)
+* [Druid](docs/lista-druid.md)
+* [Kapłan](docs/lista-kaplan.md)
+* [Łowca](docs/lista-lowca.md)
+* [Nekromanta](docs/lista-nekromanta.md)
+* [Wojownik](docs/lista-wojownik.md)

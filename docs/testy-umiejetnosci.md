@@ -4,7 +4,7 @@ Każdy test umiejętności jest połączeniem jednej umiejętności i jednego at
 
 Gracz rzuca dwiema kośćmi, przerzuca maksymalne wyniki i wybiera wyższą wartość pomiędzy kośćmi.
 
-[Podstawowa trudność](#file-podstawowa-trudnosc-md) wynosi 5
+[Podstawowa trudność](docs/podstawowa-trudnosc.md) wynosi 5
 
 Sukces i porażka są skalowalne.
 
@@ -20,6 +20,6 @@ Przykład:
 >
 > Gracz: Sakiewka!
 >
-> MG: Ok, [rzuć ile monet](#file-rzut-na-skarb-md)
+> MG: Ok, [rzuć ile monet](docs/rzut-na-skarb.md)
 
 Przedmioty i talenty fabularne mogą dodawać plusy do umiejętności.

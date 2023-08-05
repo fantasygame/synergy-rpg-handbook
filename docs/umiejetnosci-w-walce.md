@@ -12,7 +12,7 @@ Rozbrojenie złożonej pułapki - 6 sukcesów
 Załadowanie i obsłużenie balisty na smoki - 8 sukcesów
 ```
 
-Po uzyskaniu odpowiedniej ilości sukcesów many gracz rzuca [Test umiejętności](#file-testy-umiejętności-md)
+Po uzyskaniu odpowiedniej ilości sukcesów many gracz rzuca [Test umiejętności](docs/testy-umiejętności.md)
 
 Gracz może wydać wielokrotność wymaganych sukcesów na użycie umiejętności aby dodać +1 za każdą wielokrotność.
 Gracz może też odjąć sobie od testu brakujące sukcesy many, aby wykonać czynność w pośpiechu.

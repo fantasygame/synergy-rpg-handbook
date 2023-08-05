@@ -1,10 +1,10 @@
 # Kamienie szlachetne
 
-W każdy [magiczny przedmiot](#file-magiczne-przedmioty-md) można wprawić kamień szlachetny.
+W każdy [magiczny przedmiot](docs/magiczne-przedmioty.md) można wprawić kamień szlachetny.
 
-Koszt wprawienia to 50% [wartość kamienia](#file-wartosc-przedmiotu-md).
+Koszt wprawienia to 50% [wartość kamienia](docs/wartosc-przedmiotu.md).
 
-Kamienie szlachetne są znajdowane przez graczy przy [rzucie na skarb](#file-rzut-na-skarb-md)
+Kamienie szlachetne są znajdowane przez graczy przy [rzucie na skarb](docs/rzut-na-skarb.md)
 
 ```
 Rubin

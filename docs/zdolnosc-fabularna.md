@@ -9,11 +9,11 @@ Często nie trzeba rzucać za zdolność fabularną. Jeżeli chcemy przetestowa�
 
 ### Kiedy goni czas
 
-Użyj mechaniki [Many poza walką](#file-mana-poza-walka-md). Sukcesy mówią jak dobrze udała się zdolność
+Użyj mechaniki [Many poza walką](docs/mana-poza-walka.md). Sukcesy mówią jak dobrze udała się zdolność
 
 
 ### Kiedy nie goni czas.
 
-Rzuć [test umiejętności](#file-testy-umiejetnosci-md).
+Rzuć [test umiejętności](docs/testy-umiejetnosci.md).
 Zamiast kości umiejętności i kości atrybutu użyj dwóch kości many.
 

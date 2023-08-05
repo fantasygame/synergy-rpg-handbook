@@ -6,7 +6,7 @@ Inspiracja dodaje + swój poziom do następnego rzutu postaci.
 
 ## Inspiracja poza walką
 
-Poza walką używamy tej samej inspiracji przy [testach many](#file-mana-poza-walka-md).
+Poza walką używamy tej samej inspiracji przy [testach many](docs/mana-poza-walka.md).
 +1 przy teście umiejętności wymaga 5 punktów inspiracji.
 
 ## Kumulowanie inspiracji

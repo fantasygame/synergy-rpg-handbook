@@ -1,6 +1,6 @@
 # Efekt
 
-[Zdolnośći](#file-zdolnosc-md) lub [magiczne przedmioty](#file-magiczne-przedmioty-md) mogą powodować efekty.
+[Zdolnośći](docs/zdolnosc.md) lub [magiczne przedmioty](docs/magiczne-przedmioty.md) mogą powodować efekty.
 
 Efekt trwa w czasie ale nigdy nie jest określony liczbą rund. Efekt znika lub zmniejsza się kiedy zostanie użyty.
 Efekt ma swój poziom. Najczęściej wynikający z liczby sukcesów przy rzucie many.

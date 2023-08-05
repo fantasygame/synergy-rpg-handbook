@@ -5,7 +5,7 @@ Przed każdą walką, lub jako nagroda fabularna, gracze rzucają dwa rzuty:
 1. Rzut na monety
 2. Rzut na magiczny przedmiot
 
-Gracze rzucają k20 + [Poziom drużyny](#file-poziom-druzyny-md) + [Poziom wyzwania](#file-poziom-wyzwania-md)
+Gracze rzucają k20 + [Poziom drużyny](docs/poziom-druzyny.md) + [Poziom wyzwania](docs/poziom-wyzwania.md)
 
 ## ST poziomu skarbu
 ```
@@ -33,4 +33,4 @@ Przedmioty i talenty mogą dawać plusy do rzutu na skarb.
 
 ## Tempo awansu
 
-Zobacz [Krótkie kampanie](#file-krotkie-kampanie-md)
+Zobacz [Krótkie kampanie](docs/krotkie-kampanie.md)

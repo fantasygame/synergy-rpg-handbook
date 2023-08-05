@@ -9,8 +9,8 @@ W grze isnieją trzy atrybuty:
 * Zręczność
   * wykupione kości dodają modyfikator
     * do ataków dystansowych
-    * do [kroków](#file-kroki-md)
-    * do [ucieczki](#file-ucieczka-md)
+    * do [kroków](docs/kroki.md)
+    * do [ucieczki](docs/ucieczka.md)
   * Podczas sporu wewnątrz drużyny o kolejność inicjatywy postać z większą zręcznością działa jako pierwsza. Przy remisie test przeciwstawny Intuicja + Zręczność.
 * Inteligencja
   * wykupione kości dodają modyfikator
