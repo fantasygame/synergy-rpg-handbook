@@ -1,3 +1,3 @@
 # Kapłan
 
-![Alt text](klasa-kaplan.png)
+<img src="klasa-kaplan.png"  width="300">
