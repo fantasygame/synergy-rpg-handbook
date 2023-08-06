@@ -1,7 +1,7 @@
 # Ogień
 
 Ścieżka ognia pozwala na tworzenie potężnych ataków obszarowych.\
-Ataki mogą [podpalać](docs/docs/efekty/podpalenie.md) przeciwników.
+Ataki mogą [podpalać](/docs/efekty/podpalenie.md) przeciwników.
 
 <img src="imgs/ogien.png" width="400">
 
@@ -10,12 +10,12 @@ Ataki mogą [podpalać](docs/docs/efekty/podpalenie.md) przeciwników.
 
 **Podpalenie:**
 
-Fart: [podpalasz](docs/docs/efekty/podpalenie.md) przeciwnika.\
-Stopień efektu [podpalenia](docs/docs/efekty/podpalenie.md) równy ilości zadanych obrażeń
+Fart: [podpalasz](/docs/efekty/podpalenie.md) przeciwnika.\
+Stopień efektu [podpalenia](/docs/efekty/podpalenie.md) równy ilości zadanych obrażeń
 
 **Żar:**
 
-Dodaj swój poziom do rzutów przeciwko [podpalonym](docs/docs/efekty/podpalenie.md) przeciwnikom.
+Dodaj swój poziom do rzutów przeciwko [podpalonym](/docs/efekty/podpalenie.md) przeciwnikom.
 
 **Ognisty talent:**
 
@@ -33,7 +33,7 @@ Atak z dystansu
 
 Zadajesz S ran od ognia.
 
-Fart: S-poziomowy efekt [Podpalenia](docs/docs/efekty/podpalenie.md)
+Fart: S-poziomowy efekt [Podpalenia](/docs/efekty/podpalenie.md)
 ___
 **Ognista zbroja**
 

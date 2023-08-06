@@ -13,11 +13,11 @@ Poziom szału równy ilości zadanych ran.
 
 **Terror:**
 
-Możesz poświęcić sukcesy przy zadawaniu obrażeń aby spowodować [strach](docs/docs/efekty/strach.md) u przeciwnika przed sobą.
+Możesz poświęcić sukcesy przy zadawaniu obrażeń aby spowodować [strach](/docs/efekty/strach.md) u przeciwnika przed sobą.
 
 **Rzeź owieczek:**
 
-[Przewaga](/docs/przewaga.md) przeciwko [przestraszonym](docs/docs/efekty/strach.md) przeciwnikom.
+[Przewaga](/docs/przewaga.md) przeciwko [przestraszonym](/docs/efekty/strach.md) przeciwnikom.
 
 # Zdolności:
 

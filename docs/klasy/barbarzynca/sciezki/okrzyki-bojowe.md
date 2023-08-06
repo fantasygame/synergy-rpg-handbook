@@ -1,7 +1,6 @@
 # Okrzyki bojowe
 
-Ścieżka lodu pozwala na zmrażanie i zamrażanie przeciwników.\
-Manipuluje też polem bitwy tworząc śliski teren przewracający przeciwników.
+Okrzykami bojowymi barbarzyńca prowokuje i straszy przeciwników. 
 
 <img src="imgs/okrzyki-bojowe.png" width="400">
 
@@ -9,12 +8,12 @@ Manipuluje też polem bitwy tworząc śliski teren przewracający przeciwników.
 
 **Zmrożenie:**
 
-Fart: [zmrażasz](docs/docs/efekty/zmrozenie.md) przeciwnika.\
-Stopień efektu [Zmrożenia](docs/docs/efekty/zmrozenie.md) równy ilości S
+Fart: [zmrażasz](/docs/efekty/zmrozenie.md) przeciwnika.\
+Stopień efektu [Zmrożenia](/docs/efekty/zmrozenie.md) równy ilości S
 
 **Szron:**
 
-Dodaj swój poziom do rzutów przeciwko [zmrożonym](docs/docs/efekty/zmrozenie.md) przeciwnikom.
+Dodaj swój poziom do rzutów przeciwko [zmrożonym](/docs/efekty/zmrozenie.md) przeciwnikom.
 
 **Lodowy talent:**
 
@@ -26,13 +25,13 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Lodowy pocisk**
+**Przeraźliwy wrzask**
 
 Atak z dystansu
 
 Zadajesz S ran od lodu.
 
-Fart: S-poziomowy efekt [Zmrożenia](docs/docs/efekty/zmrozenie.md)
+Fart: S-poziomowy efekt [Zmrożenia](/docs/efekty/zmrozenie.md)
 ___
 **Lodowa zbroja**
 
