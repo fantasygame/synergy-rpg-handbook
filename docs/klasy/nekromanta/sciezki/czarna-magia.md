@@ -1,24 +1,22 @@
 # Czarna Magia
 
-Ścieżka ognia pozwala na tworzenie potężnych ataków obszarowych.\
-Ataki mogą [podpalać](/docs/efekty/podpalenie.md) przeciwników.
+Ścieżka czarnej magii.
 
 <img src="imgs/czarna-magia.png" width="400">
 
 # Talenty
 
-**Podpalenie:**
+**Ostra włócznia:**
 
-Fart: [podpalasz](/docs/efekty/podpalenie.md) przeciwnika.\
-Stopień efektu [podpalenia](/docs/efekty/podpalenie.md) równy ilości zadanych obrażeń
+Możesz zignorować ograniczenie przy włóczni z kości. O ile pierwszy cel dostał jakiekolwiek rany, kolejny cel może być atakowany dowolną liczbą kości.
 
-**Żar:**
+**Świeże zwłoki:**
 
-Dodaj swój poziom do rzutów przeciwko [podpalonym](/docs/efekty/podpalenie.md) przeciwnikom.
+Kiedy ktoś zabije przeciwnika, możesz w ramach tej samej akcji wywołać wybuch zwłok. MG nie działa między waszymi akcjami, działa po nich za sumę wydanej przez was many.
 
-**Ognisty talent:**
+**Ruchomy cień:**
 
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
+Kiedy przechodzisz przez ciemność, możesz zdecydować się na przeniesienie jej wraz ze swoim ruchem. Musi podążać w tym samym kierunku co ty. Możesz odłączyć się od cienia w trakcie ruchu.
 
 # Zdolności:
 
@@ -26,67 +24,70 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Ognisty pocisk**
+**Włócznia z kosci**
 
 Atak z dystansu
 
-Zadajesz S ran od ognia.
+Zadajesz S ran od cienia.
 
-Fart: S-poziomowy efekt [Podpalenia](/docs/efekty/podpalenie.md)
-___
-**Ognista zbroja**
+Jeżeli za pierwszym celem stoi inny wróg, możesz wydać dodatkową manę aby włócznia przebiła pierwszego i atakowała kolejny cel.
 
-Defensywna zdolność dystansowa.\
-Trudność: 5
+Rzuć kośćmi many w ilości 2x ekstra mana.
+Ilość kości nie może przekroczyć kości rzucanych przeciwko poprzedniemu przeciwnikowi.
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many obrażeń od ognia.
-
-Poziom efektu zmniejsza się o ilość zadanych obrażeń.
-___
-**Ściana ognia**
-
-Ofensywna zdolność dystansowa.\
-Trudność: 5
-
-Tworzysz ścianę ognia. Przeciwnicy wchodząc w ścianę otrzymują atak od ognia twoimi kośćmi many.
-
-Wybierz jej kształt i siłę.
-Podziel S pomiędzy:
-* Ilością pól ściany (ściana nie musi mieć linii prostej)
-* Ilością kości obrażeń.
+Jeżeli za drugim celem jest kolejny, włócznia może przebić dalej.
 
 ```
 Przykład:
 
-Elementalista z kością many k8 uzyskał 5S.
-Tworzy ścianę o długości 3 w kształcie litery L. Przeciwnik wchodzący w ścianę otrzymuje 2k8 obrażeń od ognia.
+Nekromanta posiadający 8k8 many atakuje przeciwnika włócznią z kości.
+Wydaje 4 many.
+
+Za pierwszym przeciwnikiem znajduje się kolejny. Nekromanta wydaje kolejne 2 many aby rzucić 4 kości obrażeń.
+
+Za drugim przeciwnikiem znajduje się trzeci. Nekromanta wydaje ostatnie 2 punkty many aby w niego uderzyć za 4 kości obrażeń.
+```
+
+___
+**Ciemność**
+
+Zdolność dystansowa.\
+Trudność: 5
+
+Tworzy magiczną [ciemność](/docs/efekty/ciemnosc.md) na S polach.
+___
+**Ściana z kości**
+
+Magiczny efekt dystansowy.
+Trudność: 5
+
+Tworzysz ścianę z kości. Przeciwnicy nie mogą przez nią przejść bez zniszczenia jej.
+
+Wybierz jej kształt i siłę.
+Podziel S pomiędzy:
+* Ilością pól ściany (ściana nie musi mieć linii prostej)
+* Ilością kości życia (ich rodzaj to twoja kość many)
+```
+Przykład:
+
+Nekromanta z kością many k8 uzyskał 5S.
+Tworzy ścianę o długości 3 w kształcie litery L.
+Żeby zniszczyć ścianę przeciwnik musi zadać dwie rany przeciwko kości życia k8.
 ```
 ___
-**Kula ognia**
+**Wybuch zwłok**
 
-Ofensywna zdolność obszarowa.
+Dystansowy efekt obszarowy, wymaga ciała.
 
-Zadajesz obrażenia od ognia.
+Eksplodujesz ciało, raniąc wszystkich dookoła.
 
-Bazowy koszt many zależny od obszaru:\
-2x2: 2M\
-3x3: 3M\
-4x4: 4M
-
-Zadajesz obrażenia od ognia.
-
+Wszyscy w okół ciała otrzymują S obrażeń od cienia.
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Deszcz meteorytów**
+**Wielki wybuch zwłok**
 
-Ofensywna zdolność obszarowa.
+Powodujesz wybuch zwłok wszystkich zwłok w zasięgu.
 
-Meteoryty spadają w wybranych przez ciebie miejscach, zadając obrażenia od ognia.
+Możesz zdecydować się na pominięcie wybranych.
 
-Bazowy koszt many: 4M
-
-Trzy meteoryty o obszarze 2x2.
-
-Możesz wydać dodatkowe 2M aby zwiększyć meteoryty do 3x3.\
-Lub dodatkowe 1M aby dodać kolejny meteoryt.
+Bazowy koszt many: 3M
