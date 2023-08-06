@@ -1,6 +1,6 @@
 # Nekromancja
 
-Nekromancja pozwala przywoływać szkielety oraz podnosić poległych przeciwników.
+Nekromancja pozwala podnosić szkielety oraz podnosić poległych przeciwników.
 
 <img src="imgs/nekromancja.png" width="400">
 
