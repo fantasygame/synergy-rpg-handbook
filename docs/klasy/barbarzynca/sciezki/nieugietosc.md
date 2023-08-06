@@ -1,8 +1,8 @@
-# Telekineza
+# Nieugiętość
 
 Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
 
-<img src="imgs/telekineza.png" width="400">
+<img src="imgs/nieugietosc.png" width="400">
 
 # Talenty
 

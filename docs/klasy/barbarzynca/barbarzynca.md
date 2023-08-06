@@ -5,5 +5,5 @@
 # Ścieżki barbarzyńcy
 
 ## [Ścieżka berserkera](sciezki/berserker.md)
+## [Ścieżka nieugiętości](sciezki/nieugietosc.md)
 ## [Ścieżka okrzyków bojowych](sciezki/okrzyki-bojowe.md)
-## [Ścieżka wytrzymałości](sciezki/wytrzymalosc.md)
