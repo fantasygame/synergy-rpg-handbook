@@ -6,4 +6,4 @@
 
 ## [Ścieżka strzelca](sciezki/strzelec.md)
 ## [Ścieżka łowcy](sciezki/lowca.md)
-## [Ścieżka sideł](sciezki/sidla.md)
+## [Ścieżka chowańca](sciezki/chowaniec.md)

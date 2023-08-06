@@ -4,7 +4,6 @@
 Manipuluje też polem bitwy tworząc śliski teren przewracający przeciwników.
 
 <img src="imgs/lowca.png" width="400">
-
 # Talenty
 
 **Zmrożenie:**

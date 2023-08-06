@@ -1,8 +1,8 @@
-# Klątwy
+# Strzelec
 
 Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
 
-<img src="imgs/klatwy.png" width="400">
+<img src="imgs/strzelec.png" width="400">
 
 # Talenty
 

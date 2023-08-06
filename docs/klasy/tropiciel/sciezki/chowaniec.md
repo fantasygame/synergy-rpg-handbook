@@ -1,10 +1,9 @@
-# Sidła
+# Chowaniec
 
 Ścieżka ognia pozwala na tworzenie potężnych ataków obszarowych.\
 Ataki mogą [podpalać](/docs/efekty/podpalenie.md) przeciwników.
 
-<img src="imgs/sidla.png" width="400">
-
+<img src="imgs/chowaniec.png" width="400">
 
 # Talenty
 
