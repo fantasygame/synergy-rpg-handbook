@@ -6,18 +6,17 @@ Okrzykami bojowymi barbarzyńca prowokuje i straszy przeciwników.
 
 # Talenty
 
-**Zmrożenie:**
+**Donośny głos:**
 
-Fart: [zmrażasz](/docs/efekty/zmrozenie.md) przeciwnika.\
-Stopień efektu [Zmrożenia](/docs/efekty/zmrozenie.md) równy ilości S
+Zwiększ zasięg okrzyków o jedno pole
 
-**Szron:**
+**Terror:**
 
-Dodaj swój poziom do rzutów przeciwko [zmrożonym](/docs/efekty/zmrozenie.md) przeciwnikom.
+Możesz poświęcić sukcesy przy zadawaniu obrażeń aby spowodować [strach](/docs/efekty/strach.md) u przeciwnika przed sobą.
 
-**Lodowy talent:**
+**Rzeź owieczek:**
 
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
+[Przewaga](/docs/przewaga.md) przeciwko [przestraszonym](/docs/efekty/strach.md) przeciwnikom.
 
 # Zdolności:
 
