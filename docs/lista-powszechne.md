@@ -42,11 +42,7 @@ ___
 Pochwycenie
 vs życie
 
-Sukcesy - poziom pochwycenia
-Pochwycony otrzymuje - poziom pochwycenia do rzutów many oraz kroków.
-Jeżeli zostały mu kroki, przemieszcza się razem z chwytającym.
-
-Chwytający +lvl do many przeciwko pochwyconemu
+Sukcesy - poziom [pochwycenia](/docs/efekty/pochwycony.md)
 
 Zdolność powszechna
 ```
