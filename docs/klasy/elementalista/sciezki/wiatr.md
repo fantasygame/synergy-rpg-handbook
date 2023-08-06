@@ -4,20 +4,6 @@
 
 <img src="imgs/wiatr.png" width="400">
 
-# Talenty
-
-**Halny wiatr:**
-
-Efekt odepchnięcia +1S
-
-**Roztrzaskanie:**
-
-Dodadkowa rana przy uderzeniu w ścianę.
-
-**Wietrzny talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
-
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
@@ -92,3 +78,17 @@ Obszar 4x4
 Każdego przeciwnika możesz albo:
 * odepchnąć (vs mana) o S kroków w wybranym kierunku
 * pociąć odłamkami (obrażenia vs życie)
+
+# Talenty
+
+**Halny wiatr:**
+
+Efekt odepchnięcia +1S
+
+**Roztrzaskanie:**
+
+Dodadkowa rana przy uderzeniu w ścianę.
+
+**Wietrzny talent:**
+
+Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.

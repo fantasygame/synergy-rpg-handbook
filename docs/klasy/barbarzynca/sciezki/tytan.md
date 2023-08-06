@@ -4,20 +4,6 @@ Tytan wykorzystuje swoja siłę aby chwytać przeciwników i ciskać nimi w inny
 
 <img src="imgs/tytan.png" width="400">
 
-# Talenty
-
-**Dodatkowe pochwycenie:**
-
-Efekt pochwycenia +1S
-
-**Mocniejsze ciśnięcie:**
-
-Ciskasz przeciwnika o jeden krok dalej.
-
-**Łamanie kończym:**
-
-Łamiąc nogi, łamiesz też ręce. Dodaj karę przeciwnikowi do testów - tego samego poziomu co do kroków.
-
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
@@ -70,3 +56,17 @@ Atak przeciwko kości życia pochwyconych przeciwników.
 
 Nieważne ilu przeciwników trzymasz w pochwyceniu. Zadajesz obrażenia wszystkim.
 Możesz dodać inspirację do kości many.
+
+# Talenty
+
+**Dodatkowe pochwycenie:**
+
+Efekt pochwycenia +1S
+
+**Mocniejsze ciśnięcie:**
+
+Ciskasz przeciwnika o jeden krok dalej.
+
+**Łamanie kończym:**
+
+Łamiąc nogi, łamiesz też ręce. Dodaj karę przeciwnikowi do testów - tego samego poziomu co do kroków.

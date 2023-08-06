@@ -4,20 +4,6 @@ Berserker opiera się na szale bojowym, który sieje zamęt wśród przeciwnikó
 
 <img src="imgs/berserker.png" width="400">
 
-# Talenty
-
-**Niekontrolowany szał:**
-
-Fart podczas ataku: Wpadasz w szał.\
-Poziom szału równy ilości zadanych ran.
-
-**Samoprowokujący szał:**
-
-Możesz poświęcić jeden sukces przy zadawaniu obrażeń aby dodać poziom szału.
-
-**Zainspirowany rzezią**
-Możesz wykorzystać punkty inspiracji aby zwiększyć poziom szału.
-
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
@@ -71,3 +57,17 @@ Atakujesz wszystkich w okół siebie.
 Szał zwiększa się za każdego zabitego przeciwnika podczas tego ataku.
 
 Nie możesz zrobić skoku w miejscu.
+
+# Talenty
+
+**Niekontrolowany szał:**
+
+Fart podczas ataku: Wpadasz w szał.\
+Poziom szału równy ilości zadanych ran.
+
+**Samoprowokujący szał:**
+
+Możesz poświęcić jeden sukces przy zadawaniu obrażeń aby dodać poziom szału.
+
+**Zainspirowany rzezią**
+Możesz wykorzystać punkty inspiracji aby zwiększyć poziom szału.

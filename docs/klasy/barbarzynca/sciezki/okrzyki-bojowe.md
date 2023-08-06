@@ -5,20 +5,6 @@ Potrafi również zwiększać swoją odporność i oszukiwać śmierć.
 
 <img src="imgs/okrzyki-bojowe.png" width="400">
 
-# Talenty
-
-**Donośny głos:**
-
-Zwiększ zasięg okrzyków o jedno pole
-
-**Terror:**
-
-Możesz poświęcić sukcesy przy zadawaniu obrażeń aby spowodować [strach](/docs/efekty/strach.md) u przeciwnika przed sobą.
-
-**Rzeź owieczek:**
-
-[Przewaga](/docs/przewaga.md) przeciwko [przestraszonym](/docs/efekty/strach.md) przeciwnikom.
-
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
@@ -73,3 +59,17 @@ Możesz wykorzystać inspirację aby dodać kości many.
 Jeżeli nie masz many ani inspiracji. Rzuć jedną kością many.
 
 Zapobiegasz utracie S życia. Nadmiarowe sukcesy cię leczą lub dodają inspirację.
+
+# Talenty
+
+**Donośny głos:**
+
+Zwiększ zasięg okrzyków o jedno pole
+
+**Terror:**
+
+Możesz poświęcić sukcesy przy zadawaniu obrażeń aby spowodować [strach](/docs/efekty/strach.md) u przeciwnika przed sobą.
+
+**Rzeź owieczek:**
+
+[Przewaga](/docs/przewaga.md) przeciwko [przestraszonym](/docs/efekty/strach.md) przeciwnikom.

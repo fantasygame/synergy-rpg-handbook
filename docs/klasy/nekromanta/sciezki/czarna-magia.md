@@ -4,20 +4,6 @@
 
 <img src="imgs/czarna-magia.png" width="400">
 
-# Talenty
-
-**Ostra włócznia:**
-
-Możesz zignorować ograniczenie przy włóczni z kości. O ile pierwszy cel dostał jakiekolwiek rany, kolejny cel może być atakowany dowolną liczbą kości.
-
-**Świeże zwłoki:**
-
-Kiedy ktoś zabije przeciwnika, możesz w ramach tej samej akcji wywołać wybuch zwłok. MG nie działa między waszymi akcjami, działa po nich za sumę wydanej przez was many.
-
-**Ruchomy cień:**
-
-Kiedy przechodzisz przez ciemność, możesz zdecydować się na przeniesienie jej wraz ze swoim ruchem. Musi podążać w tym samym kierunku co ty. Możesz odłączyć się od cienia w trakcie ruchu.
-
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
@@ -91,3 +77,17 @@ Powodujesz wybuch zwłok wszystkich zwłok w zasięgu.
 Możesz zdecydować się na pominięcie wybranych.
 
 Bazowy koszt many: 3M
+
+# Talenty
+
+**Ostra włócznia:**
+
+Możesz zignorować ograniczenie przy włóczni z kości. O ile pierwszy cel dostał jakiekolwiek rany, kolejny cel może być atakowany dowolną liczbą kości.
+
+**Świeże zwłoki:**
+
+Kiedy ktoś zabije przeciwnika, możesz w ramach tej samej akcji wywołać wybuch zwłok. MG nie działa między waszymi akcjami, działa po nich za sumę wydanej przez was many.
+
+**Ruchomy cień:**
+
+Kiedy przechodzisz przez ciemność, możesz zdecydować się na przeniesienie jej wraz ze swoim ruchem. Musi podążać w tym samym kierunku co ty. Możesz odłączyć się od cienia w trakcie ruchu.
