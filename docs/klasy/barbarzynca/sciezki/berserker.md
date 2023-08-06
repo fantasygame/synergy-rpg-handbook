@@ -1,21 +1,24 @@
 # Berserker
 
-Ścieżka ognia pozwala na tworzenie potężnych ataków obszarowych.\
-Ataki mogą [podpalać](docs/docs/efekty/podpalenie.md) przeciwników.
+Berserker opiera się na szale bojowym, który sieje zamęt wśród przeciwników.
 
-<img src="imgs/berserker.png" width="400">
+<img src="imgs/image.png" width="400">
 
 
 # Talenty
 
-**Podpalenie:**
+**Niekontrolowany szał:**
 
-Fart: [podpalasz](docs/docs/efekty/podpalenie.md) przeciwnika.\
-Stopień efektu [podpalenia](docs/docs/efekty/podpalenie.md) równy ilości zadanych obrażeń
+Fart podczas ataku: Wpadasz w szał.\
+Poziom szału równy ilości zadanych ran.
 
-**Żar:**
+**Obalenie:**
 
-Dodaj swój poziom do rzutów przeciwko [podpalonym](docs/docs/efekty/podpalenie.md) przeciwnikom.
+Możesz poświęcić jeden sukces przy zadawaniu obrażeń aby [przewrócić](docs/docs/efekty/przewrocony.md) przeciwnika.
+
+**Zagryzienie leżącego:**
+
+Dodaj swój poziom do rzutów przeciwko [przewróconym](docs/docs/efekty/podpalenie.md) przeciwnikom.
 
 **Ognisty talent:**
 
@@ -27,67 +30,51 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Ognisty pocisk**
+**Szał**
 
-Atak z dystansu
-
-Zadajesz S ran od ognia.
-
-Fart: S-poziomowy efekt [Podpalenia](docs/docs/efekty/podpalenie.md)
-___
-**Ognista zbroja**
-
-Defensywna zdolność dystansowa.\
+Zdolność pasywna
 Trudność: 5
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many obrażeń od ognia.
+Wpadasz w szał bojowy. Każdy S dodaje poziom efektu szału.
 
-Poziom efektu zmniejsza się o ilość zadanych obrażeń.
+Za każdy poziom szału dodaj połowę poziomu postaci do rzutu ataku.\
+Minimum +1 za każdy poziom efektu.
+
+Efekt nie zmniejsza się i trwa do końca walki.
 ___
-**Ściana ognia**
+**Desperacki atak**
 
-Ofensywna zdolność dystansowa.\
-Trudność: 5
+Zdolność ofensywna.
 
-Tworzysz ścianę ognia. Przeciwnicy wchodząc w ścianę otrzymują atak od ognia twoimi kośćmi many.
-
-Wybierz jej kształt i siłę.
-Podziel S pomiędzy:
-* Ilością pól ściany (ściana nie musi mieć linii prostej)
-* Ilością kości obrażeń.
-
-```
-Przykład:
-
-Elementalista z kością many k8 uzyskał 5S.
-Tworzy ścianę o długości 3 w kształcie litery L. Przeciwnik wchodzący w ścianę otrzymuje 2k8 obrażeń od ognia.
-```
+Atakujesz nie zważając na konsekwencje.\
+Możesz dodać swoje kości życia przy ataku. Każda wykorzystana kość zadaje Ci ranę.
+Możesz łączyć desperacki atak z innymi zdolnościami.
 ___
-**Kula ognia**
+**Szarża**
 
-Ofensywna zdolność obszarowa.
+Ofensywna zdolność bojowa.
 
-Zadajesz obrażenia od ognia.
+Dodaj +kość many za każdy krok przed atakiem.
+___
+**Roztrzaskanie czaszek**
 
-Bazowy koszt many zależny od obszaru:\
-2x2: 2M\
-3x3: 3M\
-4x4: 4M
+Ofensywna zdolność bojowa.
 
-Zadajesz obrażenia od ognia.
-
+Atakujesz dwóch przeciwników stojących obok siebie.\
+Łapiesz ich za głowy i zderzasz ich czaszki.
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Deszcz meteorytów**
+**Skok w tłum**
 
 Ofensywna zdolność obszarowa.
 
-Meteoryty spadają w wybranych przez ciebie miejscach, zadając obrażenia od ognia.
+Przeskakujesz nad głowami przeciwników i lądujesz pomiędzy nimi.
 
-Bazowy koszt many: 4M
+Możesz przechodzić przez pola przeciwników (przeskakujesz nad nimi).\
+Atakujesz wszystkich w okół siebie.\
+Każdy kto otrzymał obrażenia jest [przewrócony](/docs/przewaga.md).\
+Ty też.
 
-Trzy meteoryty o obszarze 2x2.
+Bazowy koszt many: 2M
 
-Możesz wydać dodatkowe 2M aby zwiększyć meteoryty do 3x3.\
-Lub dodatkowe 1M aby dodać kolejny meteoryt.
+Możesz wydać dodatkowe 2M aby utrzymać się na nogach.
