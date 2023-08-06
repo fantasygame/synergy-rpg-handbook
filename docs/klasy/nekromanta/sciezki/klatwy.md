@@ -13,78 +13,52 @@ ___
 **Osłabienie**
 
 Zdolność dystansowa.
+Trudność: 5
 
-Zmniejszasz rodzaj kości życia o sukcesy.
-Trudność to rodzaj kości życia.
-
-Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
-Tworzysz szkielet z S kośćmi.
-
-Szkielet atakuje wręcz - obrażenia fizyczne.
+Zmniejszasz rodzaj kości many o S.
 ___
 **Wrażliwość**
 
-Zdolność dystansowa, wymaga ciała.
+Zdolność dystansowa.
+Trudność: 5
 
-Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
-Tworzysz szkielet z S kośćmi.
-
-Szkielet atakuje dystansowo - obrażenia fizyczne.
+Zmniejszasz rodzaj kości życia o S.
 ___
-**Szkielet Nekromanta**
+**Wyssanie życia**
 
-Zdolność dystansowa, wymaga ciała.\
-Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
-Bazowy koszt many: 2M
+Zdolność dystansowa.
+Trudność: Kość many przeciwnika.
 
-Tworzysz szkielet z S kośćmi.
-
-Szkielet nekromanta może atakować dystansowo - obrażenia od cienia.
-
-Może też tworzyć nowe szkielety.
+Zadajesz S obrażeń, odzyskujesz S życia.
 ___
 **Żelazna dziewica**
 
-Przeciwnik atakując
-otrzymuje sukcesy kości
-many obrażeń. Lvl klątwy
-zmniejsza się o obrażenia.
+Zdolność dystansowa.\
+Trudność: Kość many wroga
 
-Zdolność dystansowa, wymaga ciała.\
-Trudność: Kość życia wroga
+Dodaje S poziomowy efekt:/
+Atakując, przeciwnik otrzymuje S twoich kości many obrażeń od cienia.
 
-Podnosisz wroga. Każdy sukces dodaje 1 kość życia.\
-Nie może przekroczyć maksymalnego życia celu.
-
-Możesz wykorzystywać wszystkie jego umiejętności o jakich wiesz że istnieją.
+Efekt zmniejsza się o 1.
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Armia nieumarłych**
+**Rytualna klątwa**
 
-Zdolność dystansowa. Wymaga ciał.\
-Trudność: Wybrana kość szkieleta\
+Rzucasz dowolną klątwę na wszystkich w zasięgu.
+
 Bazowy koszt many: 4M
-
-Podnosisz powoli ręce do góry niczym Nocny Król albo nekromanci na filmach.
-
-Wszystkie szkielety w zasięgu wstają aby walczyć po twojej stronie z S kośćmi.
 
 # Talenty
 
-**Szybkie wskrzeszenie:**
+**Podwójna klątwa:**
 
-Kiedy masz farta w dowolnym rzucie, możesz wykorzystać zdolność Szkielet lub Szkielet Łucznik za wynik tego rzutu.
+Zwiększając bazowy koszt do 2M możesz rzucić klątwę na dwa cele.
 ___
-**Twarde kości:**
+**Biegłość w klątwach:**
 
-[Przewaga](/docs/przewaga.md) przy tworzeniu szkieletów.
+[Przewaga](/docs/przewaga.md) przy klątwach.
 ___
-**Szkielety żywiołów:**
+**Inspirujące klątwy:**
 
-Możesz zmienić typ zadawanych obrażeń szkieletów na ogień, lód lub truciznę.
-
-Możesz zwiększyć koszt many o 1M aby szkielety mogły wykorzystywać sukcesy w ataku żeby zamiast obrażeń dodać poziom jednego z efektów:
-* [podpalenie](/docs/efekty/podpalenie.md)
-* [zmrożenie](/docs/efekty/zmrozenie.md)
-* [zatrucie](/docs/efekty/zatrucie.md)
+Otrzymujesz punk inspiracji za każdą odjętą kość osłabienia lub wrażliwości.
