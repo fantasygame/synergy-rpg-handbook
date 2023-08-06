@@ -6,4 +6,4 @@
 
 ## [Ścieżka likantropii](sciezki/likantropia.md)
 ## [Ścieżka natury](sciezki/natura.md)
-## [Ścieżka zwierzęcego towarzysza](sciezki/zwierzecy-towarzysz.md)
+## [Ścieżka przywoływania](sciezki/przywolywanie.md)
