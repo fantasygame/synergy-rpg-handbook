@@ -1,27 +1,8 @@
 # Klątwy
 
-Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
+Rzucasz potężne klątwy osłabiające przeciwników.
 
 <img src="imgs/klatwy.png" width="400">
-
-# Talenty
-
-**Halny wiatr:**
-
-Efekt odepchnięcia +1S
-
-**Roztrzaskanie:**
-
-Dodadkowa rana przy roztrzaskaniu.
-
-**Wietrzny talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
-
-# Roztrzaskanie - mechanika
-
-Kiedy odepchnięty przeciwnik uderzy np. w ścianę otrzymuje obrażenia.\
-Rzuć tyloma kośćmi swojej many ile pól został odepchnięty przeciwnik zanim się roztrzaskał.
 
 # Zdolności:
 
@@ -29,70 +10,81 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Odepchnięcie**
+**Osłabienie**
 
-Atak z dystansu przeciwko manie.
+Zdolność dystansowa.
 
-Odpychasz przeciwnika o S kroków.
+Zmniejszasz rodzaj kości życia o sukcesy.
+Trudność to rodzaj kości życia.
+
+Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
+Tworzysz szkielet z S kośćmi.
+
+Szkielet atakuje wręcz - obrażenia fizyczne.
 ___
-**Powietrzna zbroja**
+**Wrażliwość**
 
-Defensywna zdolność dystansowa.\
-Trudność: 5
+Zdolność dystansowa, wymaga ciała.
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Odpychasz przeciwnika o S pól.
+Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
+Tworzysz szkielet z S kośćmi.
 
-Poziom efektu zmniejsza się o 1 lub ilość zadanych ran (co wyższe).
+Szkielet atakuje dystansowo - obrażenia fizyczne.
 ___
-**Ściana wiatru**
+**Szkielet Nekromanta**
 
-Ofensywna zdolność dystansowa.\
-Trudność: 5
-
-Tworzysz ścianę wiatru.
-
-Wybierz jej kształt i siłę.
-Podziel S pomiędzy:
-* Ilością pól ściany (ściana nie musi mieć linii prostej)
-* Ilością kości odpychania.
-
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi odpychania (twoje kości many). Odpychasz przeciwnika o S kroków od ściany.
-
-```
-Przykład:
-
-Elementalista z kością many k8 uzyskał 5S.
-Tworzy prostą ścianę o długości 3.
-Kiedy przeciwnik wchodzi w ścianę Elementalista rzuca 2k8. Uzyskuje 2S i odpycha przeciwnika o dwa pola od ściany.
-
-```
-___
-**Implozja**
-
-Ofensywna zdolność dystansowa.
-Trudność: Kość many przeciwników
-
-Tworzysz implozję na obszarze. Wszystkie postaci w okół tego obszaru odpychane są o S pól. Postać na polu implozji otrzymuje S obrażeń fizycznych - nie jest odepchnięta.
-
+Zdolność dystansowa, wymaga ciała.\
+Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
 Bazowy koszt many: 2M
 
-Stożek może zadawać obrażenia lub dodawać poziomy efektu [zmrożenia](/docs/efekty/zmrozenie.md).
-Wybierz przed rzutem.
+Tworzysz szkielet z S kośćmi.
+
+Szkielet nekromanta może atakować dystansowo - obrażenia od cienia.
+
+Może też tworzyć nowe szkielety.
+___
+**Żelazna dziewica**
+
+Przeciwnik atakując
+otrzymuje sukcesy kości
+many obrażeń. Lvl klątwy
+zmniejsza się o obrażenia.
+
+Zdolność dystansowa, wymaga ciała.\
+Trudność: Kość życia wroga
+
+Podnosisz wroga. Każdy sukces dodaje 1 kość życia.\
+Nie może przekroczyć maksymalnego życia celu.
+
+Możesz wykorzystywać wszystkie jego umiejętności o jakich wiesz że istnieją.
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Wichura**
+**Armia nieumarłych**
 
-Ofensywna zdolność obszarowa.
-
-Tworzysz wichurę, która miota przeciwnikami wedle twojego życzenia.\
-Latające odłamki ranią wrogów.
-
+Zdolność dystansowa. Wymaga ciał.\
+Trudność: Wybrana kość szkieleta\
 Bazowy koszt many: 4M
 
-Obszar 4x4
+Podnosisz powoli ręce do góry niczym Nocny Król albo nekromanci na filmach.
 
-Każdego przeciwnika możesz albo:
-* odepchnąć (vs mana) o S kroków w wybranym kierunku
-* pociąć odłamkami (obrażenia vs życie)
+Wszystkie szkielety w zasięgu wstają aby walczyć po twojej stronie z S kośćmi.
+
+# Talenty
+
+**Szybkie wskrzeszenie:**
+
+Kiedy masz farta w dowolnym rzucie, możesz wykorzystać zdolność Szkielet lub Szkielet Łucznik za wynik tego rzutu.
+___
+**Twarde kości:**
+
+[Przewaga](/docs/przewaga.md) przy tworzeniu szkieletów.
+___
+**Szkielety żywiołów:**
+
+Możesz zmienić typ zadawanych obrażeń szkieletów na ogień, lód lub truciznę.
+
+Możesz zwiększyć koszt many o 1M aby szkielety mogły wykorzystywać sukcesy w ataku żeby zamiast obrażeń dodać poziom jednego z efektów:
+* [podpalenie](/docs/efekty/podpalenie.md)
+* [zmrożenie](/docs/efekty/zmrozenie.md)
+* [zatrucie](/docs/efekty/zatrucie.md)
