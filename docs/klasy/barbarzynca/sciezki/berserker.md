@@ -1,6 +1,6 @@
 # Berserker
 
-Berserker opiera się na szale bojowym, który sieje zamęt wśród przeciwników.
+Berserker opiera się na szale bojowym, który sieje zamęt i budzi strach wśród przeciwników.
 
 <img src="imgs/image.png" width="400">
 
@@ -12,24 +12,19 @@ Berserker opiera się na szale bojowym, który sieje zamęt wśród przeciwnikó
 Fart podczas ataku: Wpadasz w szał.\
 Poziom szału równy ilości zadanych ran.
 
-**Obalenie:**
+**Terror:**
 
-Możesz poświęcić jeden sukces przy zadawaniu obrażeń aby [przewrócić](docs/docs/efekty/przewrocony.md) przeciwnika.
+Możesz poświęcić sukcesy przy zadawaniu obrażeń aby spowodować [strach](docs/docs/efekty/strach.md) u przeciwnika przed sobą.
 
-**Zagryzienie leżącego:**
+**Rzeź owieczek:**
 
-Dodaj swój poziom do rzutów przeciwko [przewróconym](docs/docs/efekty/podpalenie.md) przeciwnikom.
-
-**Ognisty talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
+[Przewaga](/docs/przewaga.md) przeciwko [przestraszonym](docs/docs/efekty/strach.md) przeciwnikom.
 
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
 
 ___
-
 **Szał**
 
 Zdolność pasywna
@@ -66,15 +61,12 @@ Atakujesz dwóch przeciwników stojących obok siebie.\
 
 **Skok w tłum**
 
-Ofensywna zdolność obszarowa.
+Ofensywna zdolność bojowa.
 
 Przeskakujesz nad głowami przeciwników i lądujesz pomiędzy nimi.
 
-Możesz przechodzić przez pola przeciwników (przeskakujesz nad nimi).\
-Atakujesz wszystkich w okół siebie.\
-Każdy kto otrzymał obrażenia jest [przewrócony](/docs/przewaga.md).\
-Ty też.
-
 Bazowy koszt many: 2M
 
-Możesz wydać dodatkowe 2M aby utrzymać się na nogach.
+Możesz przechodzić przez pola przeciwników (przeskakujesz nad nimi).\
+Atakujesz wszystkich w okół siebie.\
+Każdy kto otrzymał obrażenia jest [przestraszony](/docs/strach.md).
