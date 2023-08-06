@@ -12,21 +12,17 @@ Efekt odepchnięcia +1S
 
 **Roztrzaskanie:**
 
-Dodadkowa rana przy roztrzaskaniu.
+Dodadkowa rana przy uderzeniu w ścianę.
 
 **Wietrzny talent:**
 
 Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
 
-# Roztrzaskanie - mechanika
-
-Kiedy odepchnięty przeciwnik uderzy np. w ścianę otrzymuje obrażenia.\
-Rzuć tyloma kośćmi swojej many ile pól został odepchnięty przeciwnik zanim się roztrzaskał.
-
 # Zdolności:
 
 S - ilość sukcesów w rzucie kośćmi many
 
+Odepchnięci przeciwnicy mogą [uderzyć w ścianę](/docs/uderzenie-w-sciane.md).
 ___
 
 **Odepchnięcie**
