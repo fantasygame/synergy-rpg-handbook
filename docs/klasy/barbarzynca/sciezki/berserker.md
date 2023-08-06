@@ -1,6 +1,6 @@
 # Berserker
 
-Berserker opiera się na szale bojowym, który sieje zamęt i budzi strach wśród przeciwników.
+Berserker opiera się na szale bojowym, który sieje zamęt wśród przeciwników.
 
 <img src="imgs/berserker.png" width="400">
 
@@ -11,13 +11,12 @@ Berserker opiera się na szale bojowym, który sieje zamęt i budzi strach wśr�
 Fart podczas ataku: Wpadasz w szał.\
 Poziom szału równy ilości zadanych ran.
 
-**Terror:**
+**Samoprowokujący szał:**
 
-Możesz poświęcić sukcesy przy zadawaniu obrażeń aby spowodować [strach](/docs/efekty/strach.md) u przeciwnika przed sobą.
+Możesz poświęcić jeden sukces przy zadawaniu obrażeń aby dodać poziom szału.
 
-**Rzeź owieczek:**
-
-[Przewaga](/docs/przewaga.md) przeciwko [przestraszonym](/docs/efekty/strach.md) przeciwnikom.
+**Zainspirowany rzezią**
+Możesz wykorzystać punkty inspiracji aby zwiększyć poziom szału.
 
 # Zdolności:
 
@@ -67,5 +66,8 @@ Przeskakujesz nad głowami przeciwników i lądujesz pomiędzy nimi.
 Bazowy koszt many: 2M
 
 Możesz przechodzić przez pola przeciwników (przeskakujesz nad nimi).\
-Atakujesz wszystkich w okół siebie.\
-Każdy kto otrzymał obrażenia jest [przestraszony](/docs/strach.md).
+Atakujesz wszystkich w okół siebie.
+
+Szał zwiększa się za każdego zabitego przeciwnika podczas tego ataku.
+
+Nie możesz zrobić skoku w miejscu.
