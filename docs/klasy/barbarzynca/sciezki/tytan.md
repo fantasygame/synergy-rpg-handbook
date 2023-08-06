@@ -1,4 +1,4 @@
-# Nieugiętość
+# Tytan
 
 Tytan wykorzystuje swoja siłę aby chwytać przeciwników i ciskać nimi w innych wrogów.
 
@@ -6,22 +6,17 @@ Tytan wykorzystuje swoja siłę aby chwytać przeciwników i ciskać nimi w inny
 
 # Talenty
 
-**Halny wiatr:**
+**Dodatkowe pochwycenie:**
 
-Efekt odepchnięcia +1S
+Efekt pochwycenia +1S
 
-**Roztrzaskanie:**
+**Mocniejsze ciśnięcie:**
 
-Dodadkowa rana przy roztrzaskaniu.
+Ciskasz przeciwnika o jeden krok dalej.
 
-**Wietrzny talent:**
+**Łamanie kończym:**
 
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
-
-# Roztrzaskanie - mechanika
-
-Kiedy odepchnięty przeciwnik uderzy np. w ścianę otrzymuje obrażenia.\
-Rzuć tyloma kośćmi swojej many ile pól został odepchnięty przeciwnik zanim się roztrzaskał.
+Łamiąc nogi, łamiesz też ręce. Dodaj karę przeciwnikowi do testów - tego samego poziomu co do kroków.
 
 # Zdolności:
 
@@ -33,73 +28,45 @@ ___
 
 Atak z bliska przeciwko życiu.
 
-Działa jak 
+[Chwytasz](/docs/efekty/pochwycony.md) dwóch przeciwników.
+___
+**Obezwładnienie**
+
+Atak przeciwko kości życia pochwyconego przeciwnika.
+Bazowy koszt: +2M za drugi cel.
+
+Przyciskasz przeciwnika do ziemi. Wykręcasz mu ręce. Zakładasz nelsona.
+
+Odejmij S kości many przeciwnika.
 ___
 
 **Połamanie nóg**
+Bazowy koszt: +2M za drugi cel.
 
-Atak z bliska przeciwko życiu.
+Atak przeciwko kości życia pochwyconego przeciwnika.
 
 Łamiesz nogi przeciwnika. Przeciwnik traci S kroków do końca walki.
 ___
-**Pochwycenie przeciwnika**
 
-Defensywna zdolność dystansowa.\
+**Ciśnięcie przeciwnikiem**
+
+Atak przeciwko kości życia pochwyconego przeciwnika.
+Trudność: Kość życia przeciwnika.
+
+Ciskasz przeciwnikiem o S kroków. Przeciwnik może [uderzyć w ścianę](/docs/uderzenie-w-sciane.md). Jeżeli uderzy w inną postać - obie otrzymują obrażenia.
+
+Ciśnięta postać nie jest już pochwycona.
+___
+**Ciśnięcie sojusznikiem**
+
 Trudność: 5
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Odpychasz przeciwnika o S pól.
-
-Poziom efektu zmniejsza się o 1 lub ilość zadanych ran (co wyższe).
-___
-**Ściana wiatru**
-
-Ofensywna zdolność dystansowa.\
-Trudność: 5
-
-Tworzysz ścianę wiatru.
-
-Wybierz jej kształt i siłę.
-Podziel S pomiędzy:
-* Ilością pól ściany (ściana nie musi mieć linii prostej)
-* Ilością kości odpychania.
-
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi odpychania (twoje kości many). Odpychasz przeciwnika o S kroków od ściany.
-
-```
-Przykład:
-
-Elementalista z kością many k8 uzyskał 5S.
-Tworzy prostą ścianę o długości 3.
-Kiedy przeciwnik wchodzi w ścianę Elementalista rzuca 2k8. Uzyskuje 2S i odpycha przeciwnika o dwa pola od ściany.
-
-```
-___
-**Implozja**
-
-Ofensywna zdolność dystansowa.
-Trudność: Kość many przeciwników
-
-Tworzysz implozję na obszarze. Wszystkie postaci w okół tego obszaru odpychane są o S pól. Postać na polu implozji otrzymuje S obrażeń fizycznych - nie jest odepchnięta.
-
-Bazowy koszt many: 2M
-
-Stożek może zadawać obrażenia lub dodawać poziomy efektu [zmrożenia](/docs/efekty/zmrozenie.md).
-Wybierz przed rzutem.
-
+Możesz cisnąć sojusznikiem o S pól. Taki sojusznik dodaje S kości many do zdolności której użyje w wyniku ciśnięcia.
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Wichura**
+**Rozkwaszenie**
 
-Ofensywna zdolność obszarowa.
+Atak przeciwko kości życia pochwyconych przeciwników.
 
-Tworzysz wichurę, która miota przeciwnikami wedle twojego życzenia.\
-Latające odłamki ranią wrogów.
-
-Bazowy koszt many: 4M
-
-Obszar 4x4
-
-Każdego przeciwnika możesz albo:
-* odepchnąć (vs mana) o S kroków w wybranym kierunku
-* pociąć odłamkami (obrażenia vs życie)
+Nieważne ilu przeciwników trzymasz w pochwyceniu. Zadajesz obrażenia wszystkim.
+Możesz dodać inspirację do kości many.
