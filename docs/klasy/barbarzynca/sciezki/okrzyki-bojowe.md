@@ -1,6 +1,7 @@
 # Okrzyki bojowe
 
-Okrzykami bojowymi barbarzyńca prowokuje i straszy przeciwników. 
+Okrzykami bojowymi barbarzyńca prowokuje i straszy przeciwników.\
+Potrafi również zwiększać swoją odporność i oszukiwać śmierć. 
 
 <img src="imgs/okrzyki-bojowe.png" width="400">
 
@@ -23,76 +24,52 @@ Możesz poświęcić sukcesy przy zadawaniu obrażeń aby spowodować [strach](/
 S - ilość sukcesów w rzucie kośćmi many
 
 ___
+**Przeraźliwe spojrzenie**
 
-**Przeraźliwy wrzask**
+Trudność: Kość many przeciwnika
 
-Atak z dystansu
+Spoglądasz w oczy jednego z przeciwników, powodując u niego strach.
 
-Zadajesz S ran od lodu.
-
-Fart: S-poziomowy efekt [Zmrożenia](/docs/efekty/zmrozenie.md)
+Dodajesz S poziomów efektu [strachu](/docs/efekty/strach.md) temu przeciwnikowi.
 ___
-**Lodowa zbroja**
+**Przeraźliwy ryk**
 
-Defensywna zdolność dystansowa.\
+Ofensywny efekt obszarowy.
+Trudność: Kość many przeciwników
+
+Rozdziel sukcesy pomiędzy przeciwnikami w zasięgu.
+Dodajesz im poziomy efektu [strachu](/docs/efekty/strach.md)
+___
+**Okrzyk odporności**
+
+Defensywna zdolność. Na siebie.\
 Trudność: 5
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Dodaj S-poziomowy efekt zmrożenia.
+Tworzysz S-poziomowy efekt odporności:\
+Odporność na wszystkie obrażenia.
 
-Poziom efektu zmniejsza się o ilość dodanych poziomów efektów zmrożenia.
+Poziom efektu zmniejsza się zmniejszone rany
 ___
-**Tafla lodu**
+**Prowokacja**
 
-Obszarowa zdolność dystansowa.\
-Trudność: 5
+Ofensywny efekt dystansowy.\
+Trudność: Kość many przeciwnika
 
-Tworzysz taflę lodu.
+Przysuwasz wybranych przeciwników w zasięgu o S pól w swoją stronę.
 
-Wybierz jej kształt i śliskość.
-Podziel S pomiędzy:
-* Ilością pól tafli (tafla może mieć dowolny kształt)
-* Ilością kości śliskości.
-
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi śliskości (twoje kości many).
-
-S odejmują przeciwnikowi pozostałe kroki.\
-Jeżeli zejdą do 0, przeciwnik się przewraca i testy przeciwko niemu mają [przewagę](/docs/przewaga.md).
-
-```
-Przykład:
-
-Elementalista z kością many k8 uzyskał 4S.
-Tworzy taflę lodu na dwóch polach o śliskości 2.
-
-Przeciwnik ma szybkość 4 kroków. Robi dwa kroki i wchodzi na taflę.
-Elementalista rzuca 2k8 i uzyskuje trzy S. Przeciwnikowi zostały tylko dwa kroki więc się przewraca.
-```
+Ty wybierasz jak się przesuwają.
 ___
-**Stożek zimna**
-
-Ofensywna zdolność ofensywna. Stożek zaczyna się od postaci.
-
-Bazowy koszt many zależny od długości stożka:\
-2: 2M\
-3: 3M\
-4: 4M
-
-Stożek może zadawać obrażenia lub dodawać poziomy efektu [zmrożenia](/docs/efekty/zmrozenie.md).
-Wybierz przed rzutem.
-
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zamieć**
+**Nieśmiertelność**
 
-Ofensywna zdolność obszarowa.
+Trudność: 5
 
-Tworzysz zamieć, która zadaje obrażenia od zimna i zmraża.
+Co mówisz śmierci?\
+Nie dzisiaj!
 
-Bazowy koszt many: 4M
+Kiedy otrzymujesz śmiertelne obrażenia - rzuć kośćmi many.
+Możesz wykorzystać inspirację aby dodać kości many.
+Jeżeli nie masz many ani inspiracji. Rzuć jedną kością many.
 
-Obszar 3x3
-
-Zadajesz S obrażeń i poziomów zmrożenia.
-
-Możesz wydać dodatkowe 2M aby zwiększyć obszar do 4x4
+Zapobiegasz utracie S życia. Nadmiarowe sukcesy cię leczą lub dodają inspirację.
