@@ -5,7 +5,6 @@ Ataki mogą [podpalać](/docs/efekty/podpalenie.md) przeciwników.
 
 <img src="imgs/tarczownik.png" width="400">
 
-
 # Talenty
 
 **Podpalenie:**
