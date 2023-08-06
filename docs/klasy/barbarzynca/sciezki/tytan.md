@@ -1,8 +1,8 @@
 # Nieugiętość
 
-Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
+Tytan wykorzystuje swoja siłę aby chwytać przeciwników i ciskać nimi w innych wrogów.
 
-<img src="imgs/nieugietosc.png" width="400">
+<img src="imgs/tytan.png" width="400">
 
 # Talenty
 
@@ -29,13 +29,20 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Odepchnięcie**
+**Pochwycenie**
 
-Atak z dystansu przeciwko manie.
+Atak z bliska przeciwko życiu.
 
-Odpychasz przeciwnika o S kroków.
+Działa jak 
 ___
-**Powietrzna zbroja**
+
+**Połamanie nóg**
+
+Atak z bliska przeciwko życiu.
+
+Łamiesz nogi przeciwnika. Przeciwnik traci S kroków do końca walki.
+___
+**Pochwycenie przeciwnika**
 
 Defensywna zdolność dystansowa.\
 Trudność: 5
