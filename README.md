@@ -83,3 +83,4 @@ Synergia to system który:
     * [Zatrucie](docs/docs/efekty/zatrucie.md)
     * [Strach](docs/docs/efekty/strach.md)
     * [Podpalenie](docs/docs/efekty/podpalenie.md)
+    * [Przewrócony](docs/docs/efekty/przewrocony.md)
