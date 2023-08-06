@@ -1,24 +1,8 @@
 # Nekromancja
 
-Ścieżka lodu pozwala na zmrażanie i zamrażanie przeciwników.\
-Manipuluje też polem bitwy tworząc śliski teren przewracający przeciwników.
+Nekromancja pozwala przywoływać szkielety oraz podnosić poległych przeciwników.
 
 <img src="imgs/nekromancja.png" width="400">
-
-# Talenty
-
-**Zmrożenie:**
-
-Fart: [zmrażasz](/docs/efekty/zmrozenie.md) przeciwnika.\
-Stopień efektu [Zmrożenia](/docs/efekty/zmrozenie.md) równy ilości S
-
-**Szron:**
-
-Dodaj swój poziom do rzutów przeciwko [zmrożonym](/docs/efekty/zmrozenie.md) przeciwnikom.
-
-**Lodowy talent:**
-
-Dodaj połowę swojego poziomu do wszystkich rzutów z tej ścieżki.
 
 # Zdolności:
 
@@ -26,75 +10,73 @@ S - ilość sukcesów w rzucie kośćmi many
 
 ___
 
-**Lodowy pocisk**
+**Szkielet**
 
-Atak z dystansu
+Zdolność dystansowa, wymaga ciała.
 
-Zadajesz S ran od lodu.
+Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
+Tworzysz szkielet z S kośćmi.
 
-Fart: S-poziomowy efekt [Zmrożenia](/docs/efekty/zmrozenie.md)
+Szkielet atakuje wręcz - obrażenia fizyczne.
 ___
-**Lodowa zbroja**
+**Szkielet Łucznik**
 
-Defensywna zdolność dystansowa.\
-Trudność: 5
+Zdolność dystansowa, wymaga ciała.
 
-Tworzysz S-poziomowy efekt:\
-Kiedy ktoś cię atakuje, (przed rzutem ataku przeciwnika) rzuć S kośćmi many przeciwko manie przeciwnika. Dodaj S-poziomowy efekt zmrożenia.
+Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
+Tworzysz szkielet z S kośćmi.
 
-Poziom efektu zmniejsza się o ilość dodanych poziomów efektów zmrożenia.
+Szkielet atakuje dystansowo - obrażenia fizyczne.
 ___
-**Tafla lodu**
+**Szkielet Nekromanta**
 
-Obszarowa zdolność dystansowa.\
-Trudność: 5
+Zdolność dystansowa, wymaga ciała.\
+Trudność: Wybrana kość szkieleta ([minion](/docs/boss-i-miniony.md))\
+Bazowy koszt many: 2M
 
-Tworzysz taflę lodu.
+Tworzysz szkielet z S kośćmi.
 
-Wybierz jej kształt i śliskość.
-Podziel S pomiędzy:
-* Ilością pól tafli (tafla może mieć dowolny kształt)
-* Ilością kości śliskości.
+Szkielet nekromanta może atakować dystansowo - obrażenia od cienia.
 
-Jeżeli przeciwnik wejdzie na taflę lodu rzuć kośćmi śliskości (twoje kości many).
-
-S odejmują przeciwnikowi pozostałe kroki.\
-Jeżeli zejdą do 0, przeciwnik się przewraca i testy przeciwko niemu mają [przewagę](/docs/przewaga.md).
-
-```
-Przykład:
-
-Elementalista z kością many k8 uzyskał 4S.
-Tworzy taflę lodu na dwóch polach o śliskości 2.
-
-Przeciwnik ma szybkość 4 kroków. Robi dwa kroki i wchodzi na taflę.
-Elementalista rzuca 2k8 i uzyskuje trzy S. Przeciwnikowi zostały tylko dwa kroki więc się przewraca.
-```
+Może też tworzyć nowe szkielety.
 ___
-**Stożek zimna**
+**Podniesienie wroga**
 
-Ofensywna zdolność ofensywna. Stożek zaczyna się od postaci.
+Zdolność dystansowa, wymaga ciała.\
+Trudność: Kość życia wroga
 
-Bazowy koszt many zależny od długości stożka:\
-2: 2M\
-3: 3M\
-4: 4M
+Podnosisz wroga. Każdy sukces dodaje 1 kość życia.\
+Nie może przekroczyć maksymalnego życia celu.
 
-Stożek może zadawać obrażenia lub dodawać poziomy efektu [zmrożenia](/docs/efekty/zmrozenie.md).
-Wybierz przed rzutem.
+Możesz wykorzystywać wszystkie jego umiejętności o jakich wiesz że istnieją.
 
 # [Zdolność epicka](/docs/zdolnosc-epicka.md):
 
-**Zamieć**
+**Armia nieumarłych**
 
-Ofensywna zdolność obszarowa.
-
-Tworzysz zamieć, która zadaje obrażenia od zimna i zmraża.
-
+Zdolność dystansowa. Wymaga ciał.\
+Trudność: Wybrana kość szkieleta\
 Bazowy koszt many: 4M
 
-Obszar 3x3
+Podnosisz powoli ręce do góry niczym Nocny Król albo nekromanci na filmach.
 
-Zadajesz S obrażeń i poziomów zmrożenia.
+Wszystkie szkielety w zasięgu wstają aby walczyć po twojej stronie z S kośćmi.
 
-Możesz wydać dodatkowe 2M aby zwiększyć obszar do 4x4
+# Talenty
+
+**Szybkie wskrzeszenie:**
+
+Kiedy masz farta w dowolnym rzucie, możesz wykorzystać zdolność Szkielet lub Szkielet Łucznik za wynik tego rzutu.
+___
+**Twarde kości:**
+
+[Przewaga](/docs/przewaga.md) przy tworzeniu szkieletów.
+___
+**Szkielety żywiołów:**
+
+Możesz zmienić typ zadawanych obrażeń szkieletów na ogień, lód lub truciznę.
+
+Możesz zwiększyć koszt many o 1M aby szkielety mogły wykorzystywać sukcesy w ataku żeby zamiast obrażeń dodać poziom jednego z efektów:
+* [podpalenie](/docs/efekty/podpalenie.md)
+* [zmrożenie](/docs/efekty/zmrozenie.md)
+* [zatrucie](/docs/efekty/zatrucie.md)
