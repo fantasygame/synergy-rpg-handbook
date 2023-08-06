@@ -6,4 +6,4 @@
 
 ## [Ścieżka czarnej magii](sciezki/czarna-magia.md)
 ## [Ścieżka klątw](sciezki/klatwy.md)
-## [Ścieżka nekromancji](sciezki/nekromancji.md)
+## [Ścieżka nekromancji](sciezki/nekromancja.md)
