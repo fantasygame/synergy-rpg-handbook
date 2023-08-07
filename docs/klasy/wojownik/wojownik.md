@@ -4,6 +4,11 @@
 
 # Ścieżki wojownika
 
-## [Ścieżka kapitana](sciezki/kapitan.md)
-## [Ścieżka manewrów](sciezki/manewry.md)
-## [Ścieżka tarczownika](sciezki/tarczownik.md)
+## [Kapitan](sciezki/kapitan.md)
+<img src="sciezki/imgs/kapitan.png" width="300">
+
+## [Manewry](sciezki/manewry.md)
+<img src="sciezki/imgs/manewry.png" width="300">
+
+## [Tarczownik](sciezki/tarczownik.md)
+<img src="sciezki/imgs/tarczownik.png" width="300">

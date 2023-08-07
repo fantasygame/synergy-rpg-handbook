@@ -6,6 +6,11 @@ Elementalista włada żywiołami ognia, wiatru i powietrza.
 
 # Ścieżki elementalisty
 
-## [Ścieżka ognia](/docs/klasy/elementalista/sciezki/ogien.md)
-## [Ścieżka lodu](/docs/klasy/elementalista/sciezki/lod.md)
-## [Ścieżka wiatru](/docs/klasy/elementalista/sciezki/wiatr.md)
+## [Ogień](sciezki/ogien.md)
+<img src="sciezki/imgs/ogien.png" width="300">
+
+## [Lód](sciezki/lod.md)
+<img src="sciezki/imgs/lod.png" width="300">
+
+## [Wiatr](sciezki/wiatr.md)
+<img src="sciezki/imgs/wiatr.png" width="300">

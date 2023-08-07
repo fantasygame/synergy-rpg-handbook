@@ -4,6 +4,11 @@
 
 # Ścieżki druida
 
-## [Ścieżka likantropii](sciezki/likantropia.md)
-## [Ścieżka natury](sciezki/natura.md)
-## [Ścieżka przywoływania](sciezki/przywolywanie.md)
+## [Likantropia](sciezki/likantropia.md)
+<img src="sciezki/imgs/likantropia.png" width="300">
+
+## [Natura](sciezki/natura.md)
+<img src="sciezki/imgs/natura.png" width="300">
+
+## [Przywołania](sciezki/przywolywania.md)
+<img src="sciezki/imgs/przywolywania.png" width="300">

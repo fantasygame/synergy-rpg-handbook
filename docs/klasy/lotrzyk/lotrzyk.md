@@ -4,6 +4,11 @@
 
 # Ścieżki łotrzyka
 
-## [Ścieżka nożownika](sciezki/nozownik.md)
-## [Ścieżka asasyna](sciezki/asasyn.md)
-## [Ścieżka pułapek](sciezki/pulapki.md)
+## [Nożownik](sciezki/nozownik.md)
+<img src="sciezki/imgs/nozownik.png" width="300">
+
+## [Asasyn](sciezki/asasyn.md)
+<img src="sciezki/imgs/asasyn.png" width="300">
+
+## [Pułapki](sciezki/pulapki.md)
+<img src="sciezki/imgs/pulapki.png" width="300">

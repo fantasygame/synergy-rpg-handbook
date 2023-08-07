@@ -4,6 +4,11 @@
 
 # Ścieżki kapłana
 
-## [Ścieżka paladyna](sciezki/paladyn.md)
-## [Ścieżka leczenia](sciezki/leczenie.md)
-## [Ścieżka błogosławieństwa](sciezki/blogoslawienstwo.md)
+## [Paladyn](sciezki/paladyn.md)
+<img src="sciezki/imgs/paladyn.png" width="300">
+
+## [Leczenie](sciezki/leczenie.md)
+<img src="sciezki/imgs/leczenie.png" width="300">
+
+## [Błogosławieństwo](sciezki/blogoslawienstwo.md)
+<img src="sciezki/imgs/blogoslawienstwo.png" width="300">

@@ -8,6 +8,11 @@ Używa też telekinezy aby pomagać sojusznikom i przeszkadzać wrogom.
 
 # Ścieżki zaklinacza
 
-## [Ścieżka iluzji](/docs/klasy/zaklinacz/sciezki/iluzje.md)
-## [Ścieżka psioniki](/docs/klasy/zaklinacz/sciezki/psionika.md)
-## [Ścieżka telekinezy](/docs/klasy/zaklinacz/sciezki/telekineza.md)
+## [Iluzje](sciezki/iluzje.md)
+<img src="sciezki/imgs/iluzje.png" width="300">
+
+## [Psionika](sciezki/psionika.md)
+<img src="sciezki/imgs/psionika.png" width="300">
+
+## [Telekineza](sciezki/telekineza.md)
+<img src="sciezki/imgs/telekineza.png" width="300">

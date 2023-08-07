@@ -4,6 +4,11 @@
 
 # Ścieżki tropiciela
 
-## [Ścieżka strzelca](sciezki/strzelec.md)
-## [Ścieżka łowcy](sciezki/lowca.md)
-## [Ścieżka chowańca](sciezki/chowaniec.md)
+## [Chowaniec](sciezki/chowaniec.md)
+<img src="sciezki/imgs/chowaniec.png" width="300">
+
+## [Łowca](sciezki/lowca.md)
+<img src="sciezki/imgs/lowca.png" width="300">
+
+## [Strzelec](sciezki/strzelec.md)
+<img src="sciezki/imgs/strzelec.png" width="300">
