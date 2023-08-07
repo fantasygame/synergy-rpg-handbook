@@ -1,8 +1,8 @@
-# Wiatr
+# Telekineza
 
 Ścieżka powietrza pozwala odpychać przeciwników i roztrzaskiwać ich o ściany.
 
-<img src="imgs/wiatr.png" width="400">
+<img src="imgs/telekineza.png" width="400">
 
 # Talenty
 
